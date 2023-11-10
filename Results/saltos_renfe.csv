@@ -1,0 +1,401 @@
+Poblacion ORIGEN,Poblacion DESTINO,Saltos
+Legazpi,Legazpi,1
+Legazpi,Zumarraga,1
+Legazpi,Ormaiztegi,1
+Legazpi,Beasain,2
+Legazpi,Ordizia,2
+Legazpi,Itsasondo,2
+Legazpi,Legorreta,2
+Legazpi,Ikaztegieta,2
+Legazpi,Alegia,2
+Legazpi,Tolosa,3
+Legazpi,Anoeta,3
+Legazpi,Villabona,3
+Legazpi,Andoain,4
+Legazpi,Urnieta,4
+Legazpi,Hernani,5
+Legazpi,Donostia/San Sebastian,5
+Legazpi,Pasaia,5
+Legazpi,Lezo,5
+Legazpi,Errenteria,5
+Legazpi,Irun,6
+Zumarraga,Legazpi,1
+Zumarraga,Zumarraga,1
+Zumarraga,Ormaiztegi,1
+Zumarraga,Beasain,2
+Zumarraga,Ordizia,2
+Zumarraga,Itsasondo,2
+Zumarraga,Legorreta,2
+Zumarraga,Ikaztegieta,2
+Zumarraga,Alegia,2
+Zumarraga,Tolosa,3
+Zumarraga,Anoeta,3
+Zumarraga,Villabona,3
+Zumarraga,Andoain,4
+Zumarraga,Urnieta,4
+Zumarraga,Hernani,5
+Zumarraga,Donostia/San Sebastian,5
+Zumarraga,Pasaia,5
+Zumarraga,Lezo,5
+Zumarraga,Errenteria,5
+Zumarraga,Irun,6
+Ormaiztegi,Legazpi,1
+Ormaiztegi,Zumarraga,1
+Ormaiztegi,Ormaiztegi,1
+Ormaiztegi,Beasain,2
+Ormaiztegi,Ordizia,2
+Ormaiztegi,Itsasondo,2
+Ormaiztegi,Legorreta,2
+Ormaiztegi,Ikaztegieta,2
+Ormaiztegi,Alegia,2
+Ormaiztegi,Tolosa,3
+Ormaiztegi,Anoeta,3
+Ormaiztegi,Villabona,3
+Ormaiztegi,Andoain,4
+Ormaiztegi,Urnieta,4
+Ormaiztegi,Hernani,5
+Ormaiztegi,Donostia/San Sebastian,5
+Ormaiztegi,Pasaia,5
+Ormaiztegi,Lezo,5
+Ormaiztegi,Errenteria,5
+Ormaiztegi,Irun,6
+Beasain,Legazpi,2
+Beasain,Zumarraga,2
+Beasain,Ormaiztegi,2
+Beasain,Beasain,1
+Beasain,Ordizia,1
+Beasain,Itsasondo,1
+Beasain,Legorreta,1
+Beasain,Ikaztegieta,1
+Beasain,Alegia,1
+Beasain,Tolosa,2
+Beasain,Anoeta,2
+Beasain,Villabona,2
+Beasain,Andoain,3
+Beasain,Urnieta,3
+Beasain,Hernani,4
+Beasain,Donostia/San Sebastian,4
+Beasain,Pasaia,4
+Beasain,Lezo,4
+Beasain,Errenteria,4
+Beasain,Irun,5
+Ordizia,Legazpi,2
+Ordizia,Zumarraga,2
+Ordizia,Ormaiztegi,2
+Ordizia,Beasain,1
+Ordizia,Ordizia,1
+Ordizia,Itsasondo,1
+Ordizia,Legorreta,1
+Ordizia,Ikaztegieta,1
+Ordizia,Alegia,1
+Ordizia,Tolosa,2
+Ordizia,Anoeta,2
+Ordizia,Villabona,2
+Ordizia,Andoain,3
+Ordizia,Urnieta,3
+Ordizia,Hernani,4
+Ordizia,Donostia/San Sebastian,4
+Ordizia,Pasaia,4
+Ordizia,Lezo,4
+Ordizia,Errenteria,4
+Ordizia,Irun,5
+Itsasondo,Legazpi,2
+Itsasondo,Zumarraga,2
+Itsasondo,Ormaiztegi,2
+Itsasondo,Beasain,1
+Itsasondo,Ordizia,1
+Itsasondo,Itsasondo,1
+Itsasondo,Legorreta,1
+Itsasondo,Ikaztegieta,1
+Itsasondo,Alegia,1
+Itsasondo,Tolosa,2
+Itsasondo,Anoeta,2
+Itsasondo,Villabona,2
+Itsasondo,Andoain,3
+Itsasondo,Urnieta,3
+Itsasondo,Hernani,4
+Itsasondo,Donostia/San Sebastian,4
+Itsasondo,Pasaia,4
+Itsasondo,Lezo,4
+Itsasondo,Errenteria,4
+Itsasondo,Irun,5
+Legorreta,Legazpi,2
+Legorreta,Zumarraga,2
+Legorreta,Ormaiztegi,2
+Legorreta,Beasain,1
+Legorreta,Ordizia,1
+Legorreta,Itsasondo,1
+Legorreta,Legorreta,1
+Legorreta,Ikaztegieta,1
+Legorreta,Alegia,1
+Legorreta,Tolosa,2
+Legorreta,Anoeta,2
+Legorreta,Villabona,2
+Legorreta,Andoain,3
+Legorreta,Urnieta,3
+Legorreta,Hernani,4
+Legorreta,Donostia/San Sebastian,4
+Legorreta,Pasaia,4
+Legorreta,Lezo,4
+Legorreta,Errenteria,4
+Legorreta,Irun,5
+Ikaztegieta,Legazpi,2
+Ikaztegieta,Zumarraga,2
+Ikaztegieta,Ormaiztegi,2
+Ikaztegieta,Beasain,1
+Ikaztegieta,Ordizia,1
+Ikaztegieta,Itsasondo,1
+Ikaztegieta,Legorreta,1
+Ikaztegieta,Ikaztegieta,1
+Ikaztegieta,Alegia,1
+Ikaztegieta,Tolosa,2
+Ikaztegieta,Anoeta,2
+Ikaztegieta,Villabona,2
+Ikaztegieta,Andoain,3
+Ikaztegieta,Urnieta,3
+Ikaztegieta,Hernani,4
+Ikaztegieta,Donostia/San Sebastian,4
+Ikaztegieta,Pasaia,4
+Ikaztegieta,Lezo,4
+Ikaztegieta,Errenteria,4
+Ikaztegieta,Irun,5
+Alegia,Legazpi,2
+Alegia,Zumarraga,2
+Alegia,Ormaiztegi,2
+Alegia,Beasain,1
+Alegia,Ordizia,1
+Alegia,Itsasondo,1
+Alegia,Legorreta,1
+Alegia,Ikaztegieta,1
+Alegia,Alegia,1
+Alegia,Tolosa,1
+Alegia,Anoeta,1
+Alegia,Villabona,1
+Alegia,Andoain,2
+Alegia,Urnieta,2
+Alegia,Hernani,3
+Alegia,Donostia/San Sebastian,3
+Alegia,Pasaia,3
+Alegia,Lezo,3
+Alegia,Errenteria,3
+Alegia,Irun,4
+Tolosa,Legazpi,3
+Tolosa,Zumarraga,3
+Tolosa,Ormaiztegi,3
+Tolosa,Beasain,2
+Tolosa,Ordizia,2
+Tolosa,Itsasondo,2
+Tolosa,Legorreta,2
+Tolosa,Ikaztegieta,2
+Tolosa,Alegia,1
+Tolosa,Tolosa,1
+Tolosa,Anoeta,1
+Tolosa,Villabona,1
+Tolosa,Andoain,2
+Tolosa,Urnieta,2
+Tolosa,Hernani,3
+Tolosa,Donostia/San Sebastian,3
+Tolosa,Pasaia,3
+Tolosa,Lezo,3
+Tolosa,Errenteria,3
+Tolosa,Irun,4
+Anoeta,Legazpi,3
+Anoeta,Zumarraga,3
+Anoeta,Ormaiztegi,3
+Anoeta,Beasain,2
+Anoeta,Ordizia,2
+Anoeta,Itsasondo,2
+Anoeta,Legorreta,2
+Anoeta,Ikaztegieta,2
+Anoeta,Alegia,1
+Anoeta,Tolosa,1
+Anoeta,Anoeta,1
+Anoeta,Villabona,1
+Anoeta,Andoain,2
+Anoeta,Urnieta,2
+Anoeta,Hernani,3
+Anoeta,Donostia/San Sebastian,3
+Anoeta,Pasaia,3
+Anoeta,Lezo,3
+Anoeta,Errenteria,3
+Anoeta,Irun,4
+Villabona,Legazpi,3
+Villabona,Zumarraga,3
+Villabona,Ormaiztegi,3
+Villabona,Beasain,2
+Villabona,Ordizia,2
+Villabona,Itsasondo,2
+Villabona,Legorreta,2
+Villabona,Ikaztegieta,2
+Villabona,Alegia,1
+Villabona,Tolosa,1
+Villabona,Anoeta,1
+Villabona,Villabona,1
+Villabona,Andoain,1
+Villabona,Urnieta,1
+Villabona,Hernani,2
+Villabona,Donostia/San Sebastian,2
+Villabona,Pasaia,2
+Villabona,Lezo,2
+Villabona,Errenteria,2
+Villabona,Irun,3
+Andoain,Legazpi,4
+Andoain,Zumarraga,4
+Andoain,Ormaiztegi,4
+Andoain,Beasain,3
+Andoain,Ordizia,3
+Andoain,Itsasondo,3
+Andoain,Legorreta,3
+Andoain,Ikaztegieta,3
+Andoain,Alegia,2
+Andoain,Tolosa,2
+Andoain,Anoeta,2
+Andoain,Villabona,1
+Andoain,Andoain,1
+Andoain,Urnieta,1
+Andoain,Hernani,2
+Andoain,Donostia/San Sebastian,2
+Andoain,Pasaia,2
+Andoain,Lezo,2
+Andoain,Errenteria,2
+Andoain,Irun,3
+Urnieta,Legazpi,4
+Urnieta,Zumarraga,4
+Urnieta,Ormaiztegi,4
+Urnieta,Beasain,3
+Urnieta,Ordizia,3
+Urnieta,Itsasondo,3
+Urnieta,Legorreta,3
+Urnieta,Ikaztegieta,3
+Urnieta,Alegia,2
+Urnieta,Tolosa,2
+Urnieta,Anoeta,2
+Urnieta,Villabona,1
+Urnieta,Andoain,1
+Urnieta,Urnieta,1
+Urnieta,Hernani,1
+Urnieta,Donostia/San Sebastian,1
+Urnieta,Pasaia,1
+Urnieta,Lezo,1
+Urnieta,Errenteria,1
+Urnieta,Irun,2
+Hernani,Legazpi,5
+Hernani,Zumarraga,5
+Hernani,Ormaiztegi,5
+Hernani,Beasain,4
+Hernani,Ordizia,4
+Hernani,Itsasondo,4
+Hernani,Legorreta,4
+Hernani,Ikaztegieta,4
+Hernani,Alegia,3
+Hernani,Tolosa,3
+Hernani,Anoeta,3
+Hernani,Villabona,2
+Hernani,Andoain,2
+Hernani,Urnieta,1
+Hernani,Hernani,1
+Hernani,Donostia/San Sebastian,1
+Hernani,Pasaia,1
+Hernani,Lezo,1
+Hernani,Errenteria,1
+Hernani,Irun,2
+Donostia/San Sebastian,Legazpi,5
+Donostia/San Sebastian,Zumarraga,5
+Donostia/San Sebastian,Ormaiztegi,5
+Donostia/San Sebastian,Beasain,4
+Donostia/San Sebastian,Ordizia,4
+Donostia/San Sebastian,Itsasondo,4
+Donostia/San Sebastian,Legorreta,4
+Donostia/San Sebastian,Ikaztegieta,4
+Donostia/San Sebastian,Alegia,3
+Donostia/San Sebastian,Tolosa,3
+Donostia/San Sebastian,Anoeta,3
+Donostia/San Sebastian,Villabona,2
+Donostia/San Sebastian,Andoain,2
+Donostia/San Sebastian,Urnieta,1
+Donostia/San Sebastian,Hernani,1
+Donostia/San Sebastian,Donostia/San Sebastian,1
+Donostia/San Sebastian,Pasaia,1
+Donostia/San Sebastian,Lezo,1
+Donostia/San Sebastian,Errenteria,1
+Donostia/San Sebastian,Irun,2
+Pasaia,Legazpi,5
+Pasaia,Zumarraga,5
+Pasaia,Ormaiztegi,5
+Pasaia,Beasain,4
+Pasaia,Ordizia,4
+Pasaia,Itsasondo,4
+Pasaia,Legorreta,4
+Pasaia,Ikaztegieta,4
+Pasaia,Alegia,3
+Pasaia,Tolosa,3
+Pasaia,Anoeta,3
+Pasaia,Villabona,2
+Pasaia,Andoain,2
+Pasaia,Urnieta,1
+Pasaia,Hernani,1
+Pasaia,Donostia/San Sebastian,1
+Pasaia,Pasaia,1
+Pasaia,Lezo,1
+Pasaia,Errenteria,1
+Pasaia,Irun,2
+Lezo,Legazpi,5
+Lezo,Zumarraga,5
+Lezo,Ormaiztegi,5
+Lezo,Beasain,4
+Lezo,Ordizia,4
+Lezo,Itsasondo,4
+Lezo,Legorreta,4
+Lezo,Ikaztegieta,4
+Lezo,Alegia,3
+Lezo,Tolosa,3
+Lezo,Anoeta,3
+Lezo,Villabona,2
+Lezo,Andoain,2
+Lezo,Urnieta,1
+Lezo,Hernani,1
+Lezo,Donostia/San Sebastian,1
+Lezo,Pasaia,1
+Lezo,Lezo,1
+Lezo,Errenteria,1
+Lezo,Irun,1
+Errenteria,Legazpi,5
+Errenteria,Zumarraga,5
+Errenteria,Ormaiztegi,5
+Errenteria,Beasain,4
+Errenteria,Ordizia,4
+Errenteria,Itsasondo,4
+Errenteria,Legorreta,4
+Errenteria,Ikaztegieta,4
+Errenteria,Alegia,3
+Errenteria,Tolosa,3
+Errenteria,Anoeta,3
+Errenteria,Villabona,2
+Errenteria,Andoain,2
+Errenteria,Urnieta,1
+Errenteria,Hernani,1
+Errenteria,Donostia/San Sebastian,1
+Errenteria,Pasaia,1
+Errenteria,Lezo,1
+Errenteria,Errenteria,1
+Errenteria,Irun,1
+Irun,Legazpi,6
+Irun,Zumarraga,6
+Irun,Ormaiztegi,6
+Irun,Beasain,5
+Irun,Ordizia,5
+Irun,Itsasondo,5
+Irun,Legorreta,5
+Irun,Ikaztegieta,5
+Irun,Alegia,4
+Irun,Tolosa,4
+Irun,Anoeta,4
+Irun,Villabona,3
+Irun,Andoain,3
+Irun,Urnieta,2
+Irun,Hernani,2
+Irun,Donostia/San Sebastian,2
+Irun,Pasaia,2
+Irun,Lezo,2
+Irun,Errenteria,2
+Irun,Irun,1

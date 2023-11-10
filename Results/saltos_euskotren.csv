@@ -1,0 +1,257 @@
+Poblacion ORIGEN,Poblacion DESTINO,Saltos
+Eibar,Eibar,1
+Eibar,Elgoibar,1
+Eibar,Mendaro,1
+Eibar,Deba,1
+Eibar,Zestoa,2
+Eibar,Zumaia,2
+Eibar,Zarautz,2
+Eibar,Orio,2
+Eibar,Usurbil,3
+Eibar,Donostia/San Sebastian,3
+Eibar,Lasarte-Oria,3
+Eibar,Pasaia,3
+Eibar,Errenteria,3
+Eibar,Oiartzun,3
+Eibar,Lezo,3
+Eibar,Irun,4
+Elgoibar,Eibar,1
+Elgoibar,Elgoibar,1
+Elgoibar,Mendaro,1
+Elgoibar,Deba,1
+Elgoibar,Zestoa,2
+Elgoibar,Zumaia,2
+Elgoibar,Zarautz,2
+Elgoibar,Orio,2
+Elgoibar,Usurbil,3
+Elgoibar,Donostia/San Sebastian,3
+Elgoibar,Lasarte-Oria,3
+Elgoibar,Pasaia,3
+Elgoibar,Errenteria,3
+Elgoibar,Oiartzun,3
+Elgoibar,Lezo,3
+Elgoibar,Irun,4
+Mendaro,Eibar,1
+Mendaro,Elgoibar,1
+Mendaro,Mendaro,1
+Mendaro,Deba,1
+Mendaro,Zestoa,2
+Mendaro,Zumaia,2
+Mendaro,Zarautz,2
+Mendaro,Orio,2
+Mendaro,Usurbil,3
+Mendaro,Donostia/San Sebastian,3
+Mendaro,Lasarte-Oria,3
+Mendaro,Pasaia,3
+Mendaro,Errenteria,3
+Mendaro,Oiartzun,3
+Mendaro,Lezo,3
+Mendaro,Irun,4
+Deba,Eibar,1
+Deba,Elgoibar,1
+Deba,Mendaro,1
+Deba,Deba,1
+Deba,Zestoa,2
+Deba,Zumaia,2
+Deba,Zarautz,2
+Deba,Orio,2
+Deba,Usurbil,3
+Deba,Donostia/San Sebastian,3
+Deba,Lasarte-Oria,3
+Deba,Pasaia,3
+Deba,Errenteria,3
+Deba,Oiartzun,3
+Deba,Lezo,3
+Deba,Irun,4
+Zestoa,Eibar,2
+Zestoa,Elgoibar,2
+Zestoa,Mendaro,2
+Zestoa,Deba,2
+Zestoa,Zestoa,1
+Zestoa,Zumaia,1
+Zestoa,Zarautz,1
+Zestoa,Orio,1
+Zestoa,Usurbil,2
+Zestoa,Donostia/San Sebastian,2
+Zestoa,Lasarte-Oria,2
+Zestoa,Pasaia,2
+Zestoa,Errenteria,2
+Zestoa,Oiartzun,2
+Zestoa,Lezo,2
+Zestoa,Irun,3
+Zumaia,Eibar,2
+Zumaia,Elgoibar,2
+Zumaia,Mendaro,2
+Zumaia,Deba,2
+Zumaia,Zestoa,1
+Zumaia,Zumaia,1
+Zumaia,Zarautz,1
+Zumaia,Orio,1
+Zumaia,Usurbil,2
+Zumaia,Donostia/San Sebastian,2
+Zumaia,Lasarte-Oria,2
+Zumaia,Pasaia,2
+Zumaia,Errenteria,2
+Zumaia,Oiartzun,2
+Zumaia,Lezo,2
+Zumaia,Irun,3
+Zarautz,Eibar,2
+Zarautz,Elgoibar,2
+Zarautz,Mendaro,2
+Zarautz,Deba,2
+Zarautz,Zestoa,1
+Zarautz,Zumaia,1
+Zarautz,Zarautz,1
+Zarautz,Orio,1
+Zarautz,Usurbil,2
+Zarautz,Donostia/San Sebastian,2
+Zarautz,Lasarte-Oria,2
+Zarautz,Pasaia,2
+Zarautz,Errenteria,2
+Zarautz,Oiartzun,2
+Zarautz,Lezo,2
+Zarautz,Irun,3
+Orio,Eibar,2
+Orio,Elgoibar,2
+Orio,Mendaro,2
+Orio,Deba,2
+Orio,Zestoa,1
+Orio,Zumaia,1
+Orio,Zarautz,1
+Orio,Orio,1
+Orio,Usurbil,2
+Orio,Donostia/San Sebastian,2
+Orio,Lasarte-Oria,2
+Orio,Pasaia,2
+Orio,Errenteria,2
+Orio,Oiartzun,2
+Orio,Lezo,2
+Orio,Irun,3
+Usurbil,Eibar,3
+Usurbil,Elgoibar,3
+Usurbil,Mendaro,3
+Usurbil,Deba,3
+Usurbil,Zestoa,2
+Usurbil,Zumaia,2
+Usurbil,Zarautz,2
+Usurbil,Orio,2
+Usurbil,Usurbil,1
+Usurbil,Donostia/San Sebastian,1
+Usurbil,Lasarte-Oria,1
+Usurbil,Pasaia,1
+Usurbil,Errenteria,1
+Usurbil,Oiartzun,1
+Usurbil,Lezo,1
+Usurbil,Irun,2
+Donostia/San Sebastian,Eibar,3
+Donostia/San Sebastian,Elgoibar,3
+Donostia/San Sebastian,Mendaro,3
+Donostia/San Sebastian,Deba,3
+Donostia/San Sebastian,Zestoa,2
+Donostia/San Sebastian,Zumaia,2
+Donostia/San Sebastian,Zarautz,2
+Donostia/San Sebastian,Orio,2
+Donostia/San Sebastian,Usurbil,1
+Donostia/San Sebastian,Donostia/San Sebastian,1
+Donostia/San Sebastian,Lasarte-Oria,1
+Donostia/San Sebastian,Pasaia,1
+Donostia/San Sebastian,Errenteria,1
+Donostia/San Sebastian,Oiartzun,1
+Donostia/San Sebastian,Lezo,1
+Donostia/San Sebastian,Irun,2
+Lasarte-Oria,Eibar,3
+Lasarte-Oria,Elgoibar,3
+Lasarte-Oria,Mendaro,3
+Lasarte-Oria,Deba,3
+Lasarte-Oria,Zestoa,2
+Lasarte-Oria,Zumaia,2
+Lasarte-Oria,Zarautz,2
+Lasarte-Oria,Orio,2
+Lasarte-Oria,Usurbil,1
+Lasarte-Oria,Donostia/San Sebastian,1
+Lasarte-Oria,Lasarte-Oria,1
+Lasarte-Oria,Pasaia,1
+Lasarte-Oria,Errenteria,1
+Lasarte-Oria,Oiartzun,1
+Lasarte-Oria,Lezo,1
+Lasarte-Oria,Irun,2
+Pasaia,Eibar,3
+Pasaia,Elgoibar,3
+Pasaia,Mendaro,3
+Pasaia,Deba,3
+Pasaia,Zestoa,2
+Pasaia,Zumaia,2
+Pasaia,Zarautz,2
+Pasaia,Orio,2
+Pasaia,Usurbil,1
+Pasaia,Donostia/San Sebastian,1
+Pasaia,Lasarte-Oria,1
+Pasaia,Pasaia,1
+Pasaia,Errenteria,1
+Pasaia,Oiartzun,1
+Pasaia,Lezo,1
+Pasaia,Irun,2
+Errenteria,Eibar,3
+Errenteria,Elgoibar,3
+Errenteria,Mendaro,3
+Errenteria,Deba,3
+Errenteria,Zestoa,2
+Errenteria,Zumaia,2
+Errenteria,Zarautz,2
+Errenteria,Orio,2
+Errenteria,Usurbil,1
+Errenteria,Donostia/San Sebastian,1
+Errenteria,Lasarte-Oria,1
+Errenteria,Pasaia,1
+Errenteria,Errenteria,1
+Errenteria,Oiartzun,1
+Errenteria,Lezo,1
+Errenteria,Irun,2
+Oiartzun,Eibar,3
+Oiartzun,Elgoibar,3
+Oiartzun,Mendaro,3
+Oiartzun,Deba,3
+Oiartzun,Zestoa,2
+Oiartzun,Zumaia,2
+Oiartzun,Zarautz,2
+Oiartzun,Orio,2
+Oiartzun,Usurbil,1
+Oiartzun,Donostia/San Sebastian,1
+Oiartzun,Lasarte-Oria,1
+Oiartzun,Pasaia,1
+Oiartzun,Errenteria,1
+Oiartzun,Oiartzun,1
+Oiartzun,Lezo,1
+Oiartzun,Irun,2
+Lezo,Eibar,3
+Lezo,Elgoibar,3
+Lezo,Mendaro,3
+Lezo,Deba,3
+Lezo,Zestoa,2
+Lezo,Zumaia,2
+Lezo,Zarautz,2
+Lezo,Orio,2
+Lezo,Usurbil,1
+Lezo,Donostia/San Sebastian,1
+Lezo,Lasarte-Oria,1
+Lezo,Pasaia,1
+Lezo,Errenteria,1
+Lezo,Oiartzun,1
+Lezo,Lezo,1
+Lezo,Irun,2
+Irun,Eibar,4
+Irun,Elgoibar,4
+Irun,Mendaro,4
+Irun,Deba,4
+Irun,Zestoa,3
+Irun,Zumaia,3
+Irun,Zarautz,3
+Irun,Orio,3
+Irun,Usurbil,2
+Irun,Donostia/San Sebastian,2
+Irun,Lasarte-Oria,2
+Irun,Pasaia,2
+Irun,Errenteria,2
+Irun,Oiartzun,2
+Irun,Lezo,2
+Irun,Irun,1

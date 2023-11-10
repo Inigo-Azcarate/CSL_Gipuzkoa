@@ -1,0 +1,197 @@
+COMARCA ORI,COMARCA DES,Saltos
+Bidasoa,Bidasoa,0.0
+Bidasoa,Donostialdea,1.0
+Bidasoa,Urola Kosta,2.0
+Bidasoa,Debabarrena,3.0
+Bidasoa,Durangaldea,4.0
+Bidasoa,Arratia-Amorebieta,5.0
+Bidasoa,Bilbao,6.0
+Bidasoa,Tolosaldea,2.0
+Bidasoa,Goierri,3.0
+Bidasoa,Debagoiena,
+Bidasoa,Urola Erdia,
+Bidasoa,Lekeitio-Berriatua,
+Bidasoa,Araba,
+Bidasoa,Vitoria-Gasteiz,
+Donostialdea,Bidasoa,1.0
+Donostialdea,Donostialdea,0.0
+Donostialdea,Urola Kosta,1.0
+Donostialdea,Debabarrena,2.0
+Donostialdea,Durangaldea,3.0
+Donostialdea,Arratia-Amorebieta,4.0
+Donostialdea,Bilbao,5.0
+Donostialdea,Tolosaldea,1.0
+Donostialdea,Goierri,2.0
+Donostialdea,Debagoiena,3.0
+Donostialdea,Urola Erdia,2.0
+Donostialdea,Lekeitio-Berriatua,3.0
+Donostialdea,Araba,4.0
+Donostialdea,Vitoria-Gasteiz,5.0
+Urola Kosta,Bidasoa,2.0
+Urola Kosta,Donostialdea,1.0
+Urola Kosta,Urola Kosta,0.0
+Urola Kosta,Debabarrena,1.0
+Urola Kosta,Durangaldea,2.0
+Urola Kosta,Arratia-Amorebieta,3.0
+Urola Kosta,Bilbao,4.0
+Urola Kosta,Tolosaldea,
+Urola Kosta,Goierri,2.0
+Urola Kosta,Debagoiena,2.0
+Urola Kosta,Urola Erdia,1.0
+Urola Kosta,Lekeitio-Berriatua,2.0
+Urola Kosta,Araba,
+Urola Kosta,Vitoria-Gasteiz,4.0
+Debabarrena,Bidasoa,3.0
+Debabarrena,Donostialdea,2.0
+Debabarrena,Urola Kosta,1.0
+Debabarrena,Debabarrena,0.0
+Debabarrena,Durangaldea,1.0
+Debabarrena,Arratia-Amorebieta,2.0
+Debabarrena,Bilbao,3.0
+Debabarrena,Tolosaldea,
+Debabarrena,Goierri,
+Debabarrena,Debagoiena,1.0
+Debabarrena,Urola Erdia,1.0
+Debabarrena,Lekeitio-Berriatua,1.0
+Debabarrena,Araba,2.0
+Debabarrena,Vitoria-Gasteiz,3.0
+Durangaldea,Bidasoa,4.0
+Durangaldea,Donostialdea,3.0
+Durangaldea,Urola Kosta,2.0
+Durangaldea,Debabarrena,1.0
+Durangaldea,Durangaldea,0.0
+Durangaldea,Arratia-Amorebieta,1.0
+Durangaldea,Bilbao,2.0
+Durangaldea,Tolosaldea,3.0
+Durangaldea,Goierri,2.0
+Durangaldea,Debagoiena,1.0
+Durangaldea,Urola Erdia,
+Durangaldea,Lekeitio-Berriatua,
+Durangaldea,Araba,
+Durangaldea,Vitoria-Gasteiz,
+Arratia-Amorebieta,Bidasoa,5.0
+Arratia-Amorebieta,Donostialdea,4.0
+Arratia-Amorebieta,Urola Kosta,3.0
+Arratia-Amorebieta,Debabarrena,2.0
+Arratia-Amorebieta,Durangaldea,1.0
+Arratia-Amorebieta,Arratia-Amorebieta,0.0
+Arratia-Amorebieta,Bilbao,1.0
+Arratia-Amorebieta,Tolosaldea,4.0
+Arratia-Amorebieta,Goierri,3.0
+Arratia-Amorebieta,Debagoiena,2.0
+Arratia-Amorebieta,Urola Erdia,
+Arratia-Amorebieta,Lekeitio-Berriatua,
+Arratia-Amorebieta,Araba,
+Arratia-Amorebieta,Vitoria-Gasteiz,
+Bilbao,Bidasoa,6.0
+Bilbao,Donostialdea,5.0
+Bilbao,Urola Kosta,4.0
+Bilbao,Debabarrena,3.0
+Bilbao,Durangaldea,2.0
+Bilbao,Arratia-Amorebieta,1.0
+Bilbao,Bilbao,0.0
+Bilbao,Tolosaldea,5.0
+Bilbao,Goierri,4.0
+Bilbao,Debagoiena,3.0
+Bilbao,Urola Erdia,
+Bilbao,Lekeitio-Berriatua,
+Bilbao,Araba,
+Bilbao,Vitoria-Gasteiz,
+Tolosaldea,Bidasoa,2.0
+Tolosaldea,Donostialdea,1.0
+Tolosaldea,Urola Kosta,
+Tolosaldea,Debabarrena,
+Tolosaldea,Durangaldea,3.0
+Tolosaldea,Arratia-Amorebieta,4.0
+Tolosaldea,Bilbao,5.0
+Tolosaldea,Tolosaldea,0.0
+Tolosaldea,Goierri,1.0
+Tolosaldea,Debagoiena,2.0
+Tolosaldea,Urola Erdia,1.0
+Tolosaldea,Lekeitio-Berriatua,
+Tolosaldea,Araba,
+Tolosaldea,Vitoria-Gasteiz,
+Goierri,Bidasoa,3.0
+Goierri,Donostialdea,2.0
+Goierri,Urola Kosta,2.0
+Goierri,Debabarrena,
+Goierri,Durangaldea,2.0
+Goierri,Arratia-Amorebieta,3.0
+Goierri,Bilbao,4.0
+Goierri,Tolosaldea,1.0
+Goierri,Goierri,0.0
+Goierri,Debagoiena,1.0
+Goierri,Urola Erdia,1.0
+Goierri,Lekeitio-Berriatua,
+Goierri,Araba,
+Goierri,Vitoria-Gasteiz,
+Debagoiena,Bidasoa,
+Debagoiena,Donostialdea,3.0
+Debagoiena,Urola Kosta,2.0
+Debagoiena,Debabarrena,1.0
+Debagoiena,Durangaldea,1.0
+Debagoiena,Arratia-Amorebieta,2.0
+Debagoiena,Bilbao,3.0
+Debagoiena,Tolosaldea,2.0
+Debagoiena,Goierri,1.0
+Debagoiena,Debagoiena,0.0
+Debagoiena,Urola Erdia,
+Debagoiena,Lekeitio-Berriatua,
+Debagoiena,Araba,1.0
+Debagoiena,Vitoria-Gasteiz,2.0
+Urola Erdia,Bidasoa,
+Urola Erdia,Donostialdea,2.0
+Urola Erdia,Urola Kosta,1.0
+Urola Erdia,Debabarrena,1.0
+Urola Erdia,Durangaldea,
+Urola Erdia,Arratia-Amorebieta,
+Urola Erdia,Bilbao,
+Urola Erdia,Tolosaldea,1.0
+Urola Erdia,Goierri,1.0
+Urola Erdia,Debagoiena,
+Urola Erdia,Urola Erdia,0.0
+Urola Erdia,Lekeitio-Berriatua,
+Urola Erdia,Araba,
+Urola Erdia,Vitoria-Gasteiz,
+Lekeitio-Berriatua,Bidasoa,
+Lekeitio-Berriatua,Donostialdea,3.0
+Lekeitio-Berriatua,Urola Kosta,2.0
+Lekeitio-Berriatua,Debabarrena,1.0
+Lekeitio-Berriatua,Durangaldea,
+Lekeitio-Berriatua,Arratia-Amorebieta,
+Lekeitio-Berriatua,Bilbao,
+Lekeitio-Berriatua,Tolosaldea,
+Lekeitio-Berriatua,Goierri,
+Lekeitio-Berriatua,Debagoiena,
+Lekeitio-Berriatua,Urola Erdia,
+Lekeitio-Berriatua,Lekeitio-Berriatua,0.0
+Lekeitio-Berriatua,Araba,
+Lekeitio-Berriatua,Vitoria-Gasteiz,
+Araba,Bidasoa,
+Araba,Donostialdea,4.0
+Araba,Urola Kosta,
+Araba,Debabarrena,2.0
+Araba,Durangaldea,
+Araba,Arratia-Amorebieta,
+Araba,Bilbao,
+Araba,Tolosaldea,
+Araba,Goierri,
+Araba,Debagoiena,1.0
+Araba,Urola Erdia,
+Araba,Lekeitio-Berriatua,
+Araba,Araba,0.0
+Araba,Vitoria-Gasteiz,1.0
+Vitoria-Gasteiz,Bidasoa,
+Vitoria-Gasteiz,Donostialdea,5.0
+Vitoria-Gasteiz,Urola Kosta,4.0
+Vitoria-Gasteiz,Debabarrena,3.0
+Vitoria-Gasteiz,Durangaldea,
+Vitoria-Gasteiz,Arratia-Amorebieta,
+Vitoria-Gasteiz,Bilbao,
+Vitoria-Gasteiz,Tolosaldea,
+Vitoria-Gasteiz,Goierri,
+Vitoria-Gasteiz,Debagoiena,2.0
+Vitoria-Gasteiz,Urola Erdia,
+Vitoria-Gasteiz,Lekeitio-Berriatua,
+Vitoria-Gasteiz,Araba,1.0
+Vitoria-Gasteiz,Vitoria-Gasteiz,0.0

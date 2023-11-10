@@ -1,0 +1,1108 @@
+Poblacion ORIGEN,Poblacion DESTINO,MODO_INFORME,MOTIVO_informe,Grupo edad,Actividad economica,Desplazamientos,Lat_origen,Long_origen,Lat_destino,Long_destino
+Andoain,Beasain,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,268,43.2194140168093,-2.0209083686,43.0732613951147,-2.2179073142
+Andoain,Beasain,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,231,43.2194140168093,-2.0209083686,43.0732613951147,-2.2179073142
+Andoain,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Estudiantes,239,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,Autobus interurbano,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",239,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,307,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,Bicicleta,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",100,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,20-44,Personas paradas,129,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,118,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Compras personales,20-44,Personas ocupadas,131,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,147,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,85,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",103,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,121,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,386,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,225,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, pasajero/a",Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",105,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, pasajero/a",Centro estudios,20-44,Personas ocupadas,95,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, pasajero/a",Compras personales,45-64,Personas ocupadas,112,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Donostia/San Sebastián,"Coche, pasajero/a",Gestiones personales,45-64,Personas ocupadas,85,43.2194140168093,-2.0209083686,43.2918111063554,-1.9885133578
+Andoain,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,301,43.2194140168093,-2.0209083686,43.2553049551337,-1.8928623455
+Andoain,Hernani,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,198,43.2194140168093,-2.0209083686,43.2387833429893,-1.9442591545
+Andoain,Hernani,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,171,43.2194140168093,-2.0209083686,43.2387833429893,-1.9442591545
+Andoain,Hernani,Tren Renfe cercanias,Centro estudios,20-44,Estudiantes,395,43.2194140168093,-2.0209083686,43.2387833429893,-1.9442591545
+Andoain,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,180,43.2194140168093,-2.0209083686,43.3748851848767,-1.8239709632
+Andoain,Irun,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,182,43.2194140168093,-2.0209083686,43.318640571622,-1.77372589148
+Andoain,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,145,43.2194140168093,-2.0209083686,43.318640571622,-1.77372589148
+Andoain,Orio,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,274,43.2194140168093,-2.0209083686,43.2774552762092,-2.1270561218
+Andoain,Tolosa,Autobus interurbano,Centro estudios,7-19,Estudiantes,73,43.2194140168093,-2.0209083686,43.1077539093613,-2.0800512827
+Andoain,Tolosa,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,126,43.2194140168093,-2.0209083686,43.1077539093613,-2.0800512827
+Andoain,Tolosa,"Coche, pasajero/a",Centro estudios,45-64,Personas paradas,114,43.2194140168093,-2.0209083686,43.1077539093613,-2.0800512827
+Andoain,Villabona,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,243,43.2194140168093,-2.0209083686,43.1863841159828,-2.0308643183
+Andoain,Villabona,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,226,43.2194140168093,-2.0209083686,43.1863841159828,-2.0308643183
+Andoain,Villabona,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,114,43.2194140168093,-2.0209083686,43.1863841159828,-2.0308643183
+Andoain,Villabona,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,365,43.2194140168093,-2.0209083686,43.1863841159828,-2.0308643183
+Andoain,Villabona,Tren Renfe cercanias,"Ocio, cultura, deporte",7-19,Estudiantes,145,43.2194140168093,-2.0209083686,43.1863841159828,-2.0308643183
+Andoain,Zarautz,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,624,43.2194140168093,-2.0209083686,43.280963309723,-2.16722426204
+Aretxabaleta,Arrasate/Mondragón,Autobus interurbano,Centro estudios,7-19,Estudiantes,170,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Arrasate/Mondragón,Autobus interurbano,Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",170,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Arrasate/Mondragón,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Arrasate/Mondragón,"Coche, conductor/a",Gestiones personales,20-44,Personas ocupadas,111,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Arrasate/Mondragón,"Coche, conductor/a",Otros,45-64,Personas paradas,164,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,592,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,289,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Arrasate/Mondragón,Multimodal,Trabajo habitual,20-44,Personas ocupadas,340,43.0301858431505,-2.4857005835,43.0745226631642,-2.4841486565
+Aretxabaleta,Astigarraga,"Coche, conductor/a","Ocio, cultura, deporte",20-44,"Personas jubiladas, pensionistas y otros tipos de inactividad",783,43.0301858431505,-2.4857005835,43.2797569478888,-1.9334342263
+Aretxabaleta,Astigarraga,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,684,43.0301858431505,-2.4857005835,43.2797569478888,-1.9334342263
+Arrasate/Mondragón,Aretxabaleta,Autobus interurbano,Centro estudios,7-19,Estudiantes,207,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,Autobus interurbano,Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",207,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,112,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,"Coche, conductor/a",Compras domestico-familiares,20-44,"Personas jubiladas, pensionistas y otros tipos de inactividad",189,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",116,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,"Coche, conductor/a",Otros,45-64,Personas paradas,165,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,598,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,292,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,"Coche, pasajero/a",Compras domestico-familiares,45-64,Personas ocupadas,165,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Aretxabaleta,Multimodal,Trabajo habitual,20-44,Personas ocupadas,224,43.0745226631642,-2.4841486565,43.0301858431505,-2.4857005835
+Arrasate/Mondragón,Azkoitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,866,43.0745226631642,-2.4841486565,43.1706487685027,-2.3309631204
+Arrasate/Mondragón,Bergara,Autobus interurbano,Centro estudios,7-19,Estudiantes,207,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,207,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,Bicicleta,Trabajo habitual,45-64,Personas ocupadas,165,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,96,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, conductor/a",Centro estudios,7-19,Estudiantes,102,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,165,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,112,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, conductor/a",Otros,20-44,Personas ocupadas,112,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,305,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,291,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, pasajero/a",Gestiones personales,45-64,Personas ocupadas,164,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, pasajero/a",Medico / Hospital,20-44,Personas ocupadas,110,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Bergara,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,148,43.0745226631642,-2.4841486565,43.1220053801849,-2.4148383635
+Arrasate/Mondragón,Deba,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,303,43.0745226631642,-2.4841486565,43.2945746872118,-2.3538208007
+Arrasate/Mondragón,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,298,43.0745226631642,-2.4841486565,43.2918111063554,-1.9885133578
+Arrasate/Mondragón,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,139,43.0745226631642,-2.4841486565,43.2918111063554,-1.9885133578
+Arrasate/Mondragón,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,250,43.0745226631642,-2.4841486565,43.2918111063554,-1.9885133578
+Arrasate/Mondragón,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,213,43.0745226631642,-2.4841486565,43.2918111063554,-1.9885133578
+Arrasate/Mondragón,Donostia/San Sebastián,"Coche, pasajero/a",Medico / Hospital,65 y mas,Tareas hogar,367,43.0745226631642,-2.4841486565,43.2918111063554,-1.9885133578
+Arrasate/Mondragón,Donostia/San Sebastián,Multimodal,Centro estudios,20-44,Estudiantes,328,43.0745226631642,-2.4841486565,43.2918111063554,-1.9885133578
+Arrasate/Mondragón,Eibar,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,144,43.0745226631642,-2.4841486565,43.1997782323138,-2.4616488769
+Arrasate/Mondragón,Eibar,"Coche, conductor/a",Gestiones personales,45-64,Personas paradas,144,43.0745226631642,-2.4841486565,43.1997782323138,-2.4616488769
+Arrasate/Mondragón,Eibar,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,139,43.0745226631642,-2.4841486565,43.1997782323138,-2.4616488769
+Arrasate/Mondragón,Hernani,"Coche, conductor/a",Acompanamiento,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",95,43.0745226631642,-2.4841486565,43.2387833429893,-1.9442591545
+Arrasate/Mondragón,Hernani,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,192,43.0745226631642,-2.4841486565,43.2387833429893,-1.9442591545
+Arrasate/Mondragón,Hernani,"Coche, pasajero/a",Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.0745226631642,-2.4841486565,43.2387833429893,-1.9442591545
+Arrasate/Mondragón,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,165,43.0745226631642,-2.4841486565,43.3748851848767,-1.8239709632
+Arrasate/Mondragón,Irun,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,689,43.0745226631642,-2.4841486565,43.318640571622,-1.77372589148
+Arrasate/Mondragón,Oñati,Autobus interurbano,Centro estudios,7-19,Estudiantes,207,43.0745226631642,-2.4841486565,43.0178261678898,-2.4067931275
+Arrasate/Mondragón,Oñati,Autobus interurbano,Trabajo habitual,7-19,Personas ocupadas,207,43.0745226631642,-2.4841486565,43.0178261678898,-2.4067931275
+Arrasate/Mondragón,Oñati,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,112,43.0745226631642,-2.4841486565,43.0178261678898,-2.4067931275
+Arrasate/Mondragón,Oñati,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,723,43.0745226631642,-2.4841486565,43.0178261678898,-2.4067931275
+Arrasate/Mondragón,Oñati,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,290,43.0745226631642,-2.4841486565,43.0178261678898,-2.4067931275
+Arrasate/Mondragón,Oñati,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,193,43.0745226631642,-2.4841486565,43.0178261678898,-2.4067931275
+Arrasate/Mondragón,Zarautz,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1068,43.0745226631642,-2.4841486565,43.280963309723,-2.16722426204
+Arrasate/Mondragón,Zumarraga,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,344,43.0745226631642,-2.4841486565,43.1030792391374,-2.3156108273
+Arrasate/Mondragón,Zumarraga,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,382,43.0745226631642,-2.4841486565,43.1030792391374,-2.3156108273
+Astigarraga,Arrasate/Mondragón,"Coche, conductor/a","Ocio, cultura, deporte",20-44,"Personas jubiladas, pensionistas y otros tipos de inactividad",384,43.2797569478888,-1.9334342263,43.0745226631642,-2.4841486565
+Astigarraga,Arrasate/Mondragón,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,336,43.2797569478888,-1.9334342263,43.0745226631642,-2.4841486565
+Astigarraga,Deba,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,172,43.2797569478888,-1.9334342263,43.2945746872118,-2.3538208007
+Astigarraga,Donostia/San Sebastián,Autobus interurbano,Centro estudios,7-19,Estudiantes,478,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,Autobus interurbano,Gestiones domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",239,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,20-44,Estudiantes,239,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,239,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,457,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,370,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,115,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas ocupadas,112,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",103,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,45-64,Personas paradas,100,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,147,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,131,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Otros,20-44,Personas ocupadas,171,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",103,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,679,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,364,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, pasajero/a",Acompanamiento,20-44,Personas ocupadas,332,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,356,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, pasajero/a",Medico / Hospital,45-64,Personas ocupadas,147,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,146,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,119,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,"Coche, pasajero/a",Otros,20-44,Personas ocupadas,168,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,Moto,Trabajo habitual,45-64,Personas ocupadas,113,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,Multimodal,Centro estudios,7-19,Estudiantes,239,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,Taxi,Centro estudios,7-19,Estudiantes,119,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Donostia/San Sebastián,Taxi,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",121,43.2797569478888,-1.9334342263,43.2918111063554,-1.9885133578
+Astigarraga,Errenteria,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,268,43.2797569478888,-1.9334342263,43.2553049551337,-1.8928623455
+Astigarraga,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,393,43.2797569478888,-1.9334342263,43.2553049551337,-1.8928623455
+Astigarraga,Hernani,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,120,43.2797569478888,-1.9334342263,43.2387833429893,-1.9442591545
+Astigarraga,Hernani,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",120,43.2797569478888,-1.9334342263,43.2387833429893,-1.9442591545
+Astigarraga,Hernani,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1000,43.2797569478888,-1.9334342263,43.2387833429893,-1.9442591545
+Astigarraga,Hernani,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,99,43.2797569478888,-1.9334342263,43.2387833429893,-1.9442591545
+Astigarraga,Hernani,"Coche, pasajero/a",Compras domestico-familiares,20-44,Personas ocupadas,143,43.2797569478888,-1.9334342263,43.2387833429893,-1.9442591545
+Astigarraga,Hernani,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,313,43.2797569478888,-1.9334342263,43.2387833429893,-1.9442591545
+Astigarraga,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,234,43.2797569478888,-1.9334342263,43.3748851848767,-1.8239709632
+Astigarraga,Irun,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,470,43.2797569478888,-1.9334342263,43.318640571622,-1.77372589148
+Azkoitia,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,783,43.1706487685027,-2.3309631204,43.0745226631642,-2.4841486565
+Azkoitia,Azpeitia,Autobus interurbano,Trabajo habitual,20-44,Estudiantes,257,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,257,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,Bicicleta,Centro estudios,7-19,Estudiantes,305,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,Bicicleta,"Ocio, cultura, deporte",45-64,Tareas hogar,177,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,203,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas ocupadas,177,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,613,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,872,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,"Coche, pasajero/a",Compras domestico-familiares,7-19,Estudiantes,143,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Azpeitia,Multimodal,Trabajo habitual,20-44,Personas ocupadas,143,43.1706487685027,-2.3309631204,43.1624073640789,-2.2517858723
+Azkoitia,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,199,43.1706487685027,-2.3309631204,43.1220053801849,-2.4148383635
+Azkoitia,Donostia/San Sebastián,Autobus interurbano,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",276,43.1706487685027,-2.3309631204,43.2918111063554,-1.9885133578
+Azkoitia,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,276,43.1706487685027,-2.3309631204,43.2918111063554,-1.9885133578
+Azkoitia,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,179,43.1706487685027,-2.3309631204,43.2918111063554,-1.9885133578
+Azkoitia,Ordizia,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,264,43.1706487685027,-2.3309631204,43.0637579709383,-2.1818318125
+Azkoitia,Ordizia,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,182,43.1706487685027,-2.3309631204,43.0637579709383,-2.1818318125
+Azkoitia,Oñati,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,289,43.1706487685027,-2.3309631204,43.0178261678898,-2.4067931275
+Azkoitia,Zarautz,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,94,43.1706487685027,-2.3309631204,43.280963309723,-2.16722426204
+Azkoitia,Zarautz,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,193,43.1706487685027,-2.3309631204,43.280963309723,-2.16722426204
+Azkoitia,Zumaia,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,176,43.1706487685027,-2.3309631204,43.2876451846902,-2.2461133898
+Azkoitia,Zumarraga,Autobus discrecional,Trabajo habitual,45-64,Personas ocupadas,230,43.1706487685027,-2.3309631204,43.1030792391374,-2.3156108273
+Azpeitia,Azkoitia,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,257,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Azkoitia,Bicicleta,Centro estudios,7-19,Estudiantes,305,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Azkoitia,Bicicleta,"Ocio, cultura, deporte",45-64,Tareas hogar,177,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Azkoitia,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,103,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Azkoitia,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,102,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Azkoitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,613,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Azkoitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,490,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Azkoitia,Multimodal,Trabajo habitual,20-44,Personas ocupadas,257,43.1624073640789,-2.2517858723,43.1706487685027,-2.3309631204
+Azpeitia,Beasain,"Coche, conductor/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",209,43.1624073640789,-2.2517858723,43.0732613951147,-2.2179073142
+Azpeitia,Beasain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,202,43.1624073640789,-2.2517858723,43.0732613951147,-2.2179073142
+Azpeitia,Donostia/San Sebastián,Autobus interurbano,Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",276,43.1624073640789,-2.2517858723,43.2918111063554,-1.9885133578
+Azpeitia,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,270,43.1624073640789,-2.2517858723,43.2918111063554,-1.9885133578
+Azpeitia,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,236,43.1624073640789,-2.2517858723,43.2918111063554,-1.9885133578
+Azpeitia,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,162,43.1624073640789,-2.2517858723,43.2918111063554,-1.9885133578
+Azpeitia,Donostia/San Sebastián,"Coche, pasajero/a",Asuntos trabajo,45-64,Personas ocupadas,133,43.1624073640789,-2.2517858723,43.2918111063554,-1.9885133578
+Azpeitia,Donostia/San Sebastián,"Coche, pasajero/a","Ocio, cultura, deporte",20-44,Personas ocupadas,275,43.1624073640789,-2.2517858723,43.2918111063554,-1.9885133578
+Azpeitia,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,207,43.1624073640789,-2.2517858723,43.2918111063554,-1.9885133578
+Azpeitia,Eibar,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,903,43.1624073640789,-2.2517858723,43.1997782323138,-2.4616488769
+Azpeitia,Errenteria,"Coche, conductor/a",Otra vivienda,20-44,Personas paradas,384,43.1624073640789,-2.2517858723,43.2553049551337,-1.8928623455
+Azpeitia,Legazpi,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,230,43.1624073640789,-2.2517858723,43.0307535874133,-2.3423674188
+Azpeitia,Orio,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,203,43.1624073640789,-2.2517858723,43.2774552762092,-2.1270561218
+Azpeitia,Zarautz,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,165,43.1624073640789,-2.2517858723,43.280963309723,-2.16722426204
+Azpeitia,Zumaia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,177,43.1624073640789,-2.2517858723,43.2876451846902,-2.2461133898
+Beasain,Andoain,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,198,43.0732613951147,-2.2179073142,43.2194140168093,-2.0209083686
+Beasain,Andoain,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,305,43.0732613951147,-2.2179073142,43.2194140168093,-2.0209083686
+Beasain,Azpeitia,"Coche, conductor/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",210,43.0732613951147,-2.2179073142,43.1624073640789,-2.2517858723
+Beasain,Azpeitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,202,43.0732613951147,-2.2179073142,43.1624073640789,-2.2517858723
+Beasain,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,210,43.0732613951147,-2.2179073142,43.1220053801849,-2.4148383635
+Beasain,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,221,43.0732613951147,-2.2179073142,43.2918111063554,-1.9885133578
+Beasain,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,327,43.0732613951147,-2.2179073142,43.2918111063554,-1.9885133578
+Beasain,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,275,43.0732613951147,-2.2179073142,43.2918111063554,-1.9885133578
+Beasain,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,181,43.0732613951147,-2.2179073142,43.2918111063554,-1.9885133578
+Beasain,Eibar,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,471,43.0732613951147,-2.2179073142,43.1997782323138,-2.4616488769
+Beasain,Hernani,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,439,43.0732613951147,-2.2179073142,43.2387833429893,-1.9442591545
+Beasain,Lazkao,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas paradas,163,43.0732613951147,-2.2179073142,43.0194888194631,-2.1671234871
+Beasain,Lazkao,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,163,43.0732613951147,-2.2179073142,43.0194888194631,-2.1671234871
+Beasain,Lazkao,"Coche, conductor/a",Otra vivienda,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.0732613951147,-2.2179073142,43.0194888194631,-2.1671234871
+Beasain,Lazkao,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,147,43.0732613951147,-2.2179073142,43.0194888194631,-2.1671234871
+Beasain,Lazkao,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,190,43.0732613951147,-2.2179073142,43.0194888194631,-2.1671234871
+Beasain,Lazkao,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,118,43.0732613951147,-2.2179073142,43.0194888194631,-2.1671234871
+Beasain,Legazpi,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,164,43.0732613951147,-2.2179073142,43.0307535874133,-2.3423674188
+Beasain,Legazpi,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,191,43.0732613951147,-2.2179073142,43.0307535874133,-2.3423674188
+Beasain,Ordizia,Autobus interurbano,Centro estudios,7-19,Estudiantes,364,43.0732613951147,-2.2179073142,43.0637579709383,-2.1818318125
+Beasain,Ordizia,Bicicleta,Centro estudios,7-19,Estudiantes,132,43.0732613951147,-2.2179073142,43.0637579709383,-2.1818318125
+Beasain,Ordizia,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,144,43.0732613951147,-2.2179073142,43.0637579709383,-2.1818318125
+Beasain,Ordizia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,111,43.0732613951147,-2.2179073142,43.0637579709383,-2.1818318125
+Beasain,Ordizia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,126,43.0732613951147,-2.2179073142,43.0637579709383,-2.1818318125
+Beasain,Ordizia,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,163,43.0732613951147,-2.2179073142,43.0637579709383,-2.1818318125
+Beasain,Ordizia,Moto,Trabajo habitual,20-44,Personas ocupadas,147,43.0732613951147,-2.2179073142,43.0637579709383,-2.1818318125
+Beasain,Tolosa,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,141,43.0732613951147,-2.2179073142,43.1077539093613,-2.0800512827
+Beasain,Tolosa,Multimodal,Trabajo habitual,45-64,Personas ocupadas,145,43.0732613951147,-2.2179073142,43.1077539093613,-2.0800512827
+Beasain,Tolosa,Tren Renfe cercanias,Trabajo habitual,20-44,Personas ocupadas,508,43.0732613951147,-2.2179073142,43.1077539093613,-2.0800512827
+Beasain,Zumarraga,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,861,43.0732613951147,-2.2179073142,43.1030792391374,-2.3156108273
+Beasain,Zumarraga,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,164,43.0732613951147,-2.2179073142,43.1030792391374,-2.3156108273
+Bergara,Arrasate/Mondragón,Autobus interurbano,Centro estudios,7-19,Estudiantes,170,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,Autobus interurbano,Medico / Hospital,20-44,Personas ocupadas,170,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,170,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,Bicicleta,Trabajo habitual,45-64,Personas ocupadas,164,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,95,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, conductor/a",Centro estudios,7-19,Estudiantes,101,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,164,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, conductor/a",Gestiones personales,45-64,Personas paradas,115,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, conductor/a",Otros,20-44,Personas ocupadas,111,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,302,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,402,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, pasajero/a",Gestiones personales,45-64,Personas ocupadas,162,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Arrasate/Mondragón,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,146,43.1220053801849,-2.4148383635,43.0745226631642,-2.4841486565
+Bergara,Azkoitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,232,43.1220053801849,-2.4148383635,43.1706487685027,-2.3309631204
+Bergara,Beasain,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,210,43.1220053801849,-2.4148383635,43.0732613951147,-2.2179073142
+Bergara,Eibar,Autobus interurbano,Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",282,43.1220053801849,-2.4148383635,43.1997782323138,-2.4616488769
+Bergara,Eibar,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,282,43.1220053801849,-2.4148383635,43.1997782323138,-2.4616488769
+Bergara,Eibar,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,240,43.1220053801849,-2.4148383635,43.1997782323138,-2.4616488769
+Bergara,Eibar,Multimodal,Trabajo habitual,45-64,Personas ocupadas,282,43.1220053801849,-2.4148383635,43.1997782323138,-2.4616488769
+Bergara,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,258,43.1220053801849,-2.4148383635,43.318640571622,-1.77372589148
+Bergara,Mutriku,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,141,43.1220053801849,-2.4148383635,43.3016874985659,-2.3847547875
+Bergara,Ordizia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,120,43.1220053801849,-2.4148383635,43.0637579709383,-2.1818318125
+Bergara,Orio,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,305,43.1220053801849,-2.4148383635,43.2774552762092,-2.1270561218
+Bergara,Oñati,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,250,43.1220053801849,-2.4148383635,43.0178261678898,-2.4067931275
+Bergara,Zarautz,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,467,43.1220053801849,-2.4148383635,43.280963309723,-2.16722426204
+Bergara,Zumarraga,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,206,43.1220053801849,-2.4148383635,43.1030792391374,-2.3156108273
+Deba,Arrasate/Mondragón,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,293,43.2945746872118,-2.3538208007,43.0745226631642,-2.4841486565
+Deba,Donostia/San Sebastián,"Coche, pasajero/a",Gestiones personales,20-44,Personas ocupadas,468,43.2945746872118,-2.3538208007,43.2918111063554,-1.9885133578
+Deba,Donostia/San Sebastián,"Coche, pasajero/a",Gestiones personales,20-44,Tareas hogar,459,43.2945746872118,-2.3538208007,43.2918111063554,-1.9885133578
+Deba,Eibar,"Coche, conductor/a",Gestiones personales,20-44,Personas ocupadas,146,43.2945746872118,-2.3538208007,43.1997782323138,-2.4616488769
+Deba,Eibar,"Coche, conductor/a",Otros,45-64,Personas paradas,97,43.2945746872118,-2.3538208007,43.1997782323138,-2.4616488769
+Deba,Eibar,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,166,43.2945746872118,-2.3538208007,43.1997782323138,-2.4616488769
+Deba,Eibar,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,117,43.2945746872118,-2.3538208007,43.1997782323138,-2.4616488769
+Deba,Eibar,"Coche, pasajero/a",Otros,45-64,Personas ocupadas,96,43.2945746872118,-2.3538208007,43.1997782323138,-2.4616488769
+Deba,Eibar,Tren EuskoTren,Medico / Hospital,45-64,Personas paradas,112,43.2945746872118,-2.3538208007,43.1997782323138,-2.4616488769
+Deba,Mutriku,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,95,43.2945746872118,-2.3538208007,43.3016874985659,-2.3847547875
+Deba,Mutriku,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,94,43.2945746872118,-2.3538208007,43.3016874985659,-2.3847547875
+Deba,Zumaia,Tren EuskoTren,Trabajo habitual,20-44,Personas ocupadas,195,43.2945746872118,-2.3538208007,43.2876451846902,-2.2461133898
+Donostia/San Sebastián,Andoain,Autobus interurbano,Centro estudios,20-44,Estudiantes,251,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,Autobus interurbano,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",251,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,322,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,Bicicleta,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",100,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,118,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,232,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,85,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas paradas,129,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,121,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,385,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,225,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Andoain,Tren Renfe cercanias,Centro estudios,20-44,Personas ocupadas,151,43.2918111063554,-1.9885133578,43.2194140168093,-2.0209083686
+Donostia/San Sebastián,Arrasate/Mondragón,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,252,43.2918111063554,-1.9885133578,43.0745226631642,-2.4841486565
+Donostia/San Sebastián,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,212,43.2918111063554,-1.9885133578,43.0745226631642,-2.4841486565
+Donostia/San Sebastián,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,180,43.2918111063554,-1.9885133578,43.0745226631642,-2.4841486565
+Donostia/San Sebastián,Arrasate/Mondragón,"Coche, pasajero/a",Medico / Hospital,65 y mas,Tareas hogar,310,43.2918111063554,-1.9885133578,43.0745226631642,-2.4841486565
+Donostia/San Sebastián,Arrasate/Mondragón,Multimodal,Centro estudios,20-44,Estudiantes,135,43.2918111063554,-1.9885133578,43.0745226631642,-2.4841486565
+Donostia/San Sebastián,Astigarraga,Autobus interurbano,Gestiones domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",251,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,457,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,370,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,115,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas ocupadas,112,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",103,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Gestiones personales,45-64,Personas paradas,100,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,147,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,131,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Otros,20-44,Personas ocupadas,171,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",103,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,774,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,364,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a",Acompanamiento,20-44,Personas ocupadas,332,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a",Centro estudios,20-44,Estudiantes,168,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,549,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a",Medico / Hospital,45-64,Personas ocupadas,147,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,146,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,118,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a",Otros,20-44,Personas ocupadas,168,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,85,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,Moto,Trabajo habitual,45-64,Personas ocupadas,113,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,Multimodal,Centro estudios,7-19,Estudiantes,144,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,Taxi,Centro estudios,7-19,Estudiantes,118,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Astigarraga,Taxi,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",121,43.2918111063554,-1.9885133578,43.2797569478888,-1.9334342263
+Donostia/San Sebastián,Azkoitia,Autobus interurbano,"Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",228,43.2918111063554,-1.9885133578,43.1706487685027,-2.3309631204
+Donostia/San Sebastián,Azkoitia,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,228,43.2918111063554,-1.9885133578,43.1706487685027,-2.3309631204
+Donostia/San Sebastián,Azkoitia,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,232,43.2918111063554,-1.9885133578,43.1706487685027,-2.3309631204
+Donostia/San Sebastián,Azpeitia,Autobus interurbano,Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",228,43.2918111063554,-1.9885133578,43.1624073640789,-2.2517858723
+Donostia/San Sebastián,Azpeitia,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,151,43.2918111063554,-1.9885133578,43.1624073640789,-2.2517858723
+Donostia/San Sebastián,Azpeitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,90,43.2918111063554,-1.9885133578,43.1624073640789,-2.2517858723
+Donostia/San Sebastián,Azpeitia,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,115,43.2918111063554,-1.9885133578,43.1624073640789,-2.2517858723
+Donostia/San Sebastián,Azpeitia,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,74,43.2918111063554,-1.9885133578,43.1624073640789,-2.2517858723
+Donostia/San Sebastián,Beasain,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,54,43.2918111063554,-1.9885133578,43.0732613951147,-2.2179073142
+Donostia/San Sebastián,Beasain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,174,43.2918111063554,-1.9885133578,43.0732613951147,-2.2179073142
+Donostia/San Sebastián,Beasain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,255,43.2918111063554,-1.9885133578,43.0732613951147,-2.2179073142
+Donostia/San Sebastián,Eibar,"Coche, conductor/a",Compras domestico-familiares,65 y mas,Personas ocupadas,322,43.2918111063554,-1.9885133578,43.1997782323138,-2.4616488769
+Donostia/San Sebastián,Eibar,"Coche, conductor/a",Compras personales,45-64,Personas ocupadas,458,43.2918111063554,-1.9885133578,43.1997782323138,-2.4616488769
+Donostia/San Sebastián,Eibar,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,348,43.2918111063554,-1.9885133578,43.1997782323138,-2.4616488769
+Donostia/San Sebastián,Eibar,Multimodal,Asuntos trabajo,45-64,Personas ocupadas,130,43.2918111063554,-1.9885133578,43.1997782323138,-2.4616488769
+Donostia/San Sebastián,Errenteria,Autobus interurbano,Centro estudios,20-44,Estudiantes,397,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Autobus interurbano,Gestiones personales,20-44,Personas paradas,397,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Autobus interurbano,Trabajo habitual,20-44,Estudiantes,397,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,397,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,1191,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,316,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,968,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,722,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Gestiones personales,20-44,Personas ocupadas,652,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,350,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,305,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,353,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,444,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1637,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,2720,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,632,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,350,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, pasajero/a",Otra vivienda,45-64,Personas paradas,268,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,647,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,350,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Moto,Trabajo habitual,20-44,Personas ocupadas,949,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Multimodal,Centro estudios,7-19,Estudiantes,144,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Multimodal,Trabajo habitual,20-44,Personas ocupadas,165,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Taxi,"Ocio, cultura, deporte",20-44,Personas ocupadas,412,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Tren Metro SS/Topo,Centro estudios,20-44,Estudiantes,522,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Tren Metro SS/Topo,Centro estudios,7-19,Estudiantes,1218,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Tren Metro SS/Topo,Medico / Hospital,45-64,Personas ocupadas,174,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Tren Metro SS/Topo,Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",223,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Tren Metro SS/Topo,Trabajo habitual,20-44,Personas ocupadas,174,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Errenteria,Tren Metro SS/Topo,Trabajo habitual,45-64,Personas ocupadas,696,43.2918111063554,-1.9885133578,43.2553049551337,-1.8928623455
+Donostia/San Sebastián,Hernani,Autobus interurbano,Centro estudios,20-44,Personas ocupadas,266,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Autobus interurbano,Centro estudios,7-19,Estudiantes,342,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Autobus interurbano,"Ocio, cultura, deporte",45-64,Personas ocupadas,266,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Autobus interurbano,"Ocio, cultura, deporte",45-64,Personas paradas,266,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Autobus interurbano,"Ocio, cultura, deporte",45-64,Tareas hogar,266,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Autobus interurbano,Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",684,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,131,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,111,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,141,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Gestiones personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",94,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas paradas,110,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,163,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a","Ocio, cultura, deporte",65 y mas,Personas paradas,111,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,249,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",114,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1685,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,1039,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,222,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, pasajero/a","Ocio, cultura, deporte",20-44,Personas ocupadas,110,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Tareas hogar,161,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,"Coche, pasajero/a","Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",113,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Moto,Trabajo habitual,45-64,Personas ocupadas,110,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Multimodal,Trabajo habitual,45-64,Personas ocupadas,157,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Tren Renfe cercanias,Centro estudios,20-44,Estudiantes,492,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hernani,Tren Renfe cercanias,"Ocio, cultura, deporte",20-44,Estudiantes,492,43.2918111063554,-1.9885133578,43.2387833429893,-1.9442591545
+Donostia/San Sebastián,Hondarribia,Autobus interurbano,Centro estudios,20-44,Estudiantes,394,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,Autobus interurbano,Centro estudios,45-64,Personas paradas,197,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,Autobus interurbano,Compras personales,45-64,Personas ocupadas,197,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,Autobus interurbano,"Ocio, cultura, deporte",45-64,Personas paradas,253,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,145,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,171,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas ocupadas,85,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, conductor/a",Compras personales,45-64,Personas ocupadas,188,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,299,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,688,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,118,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, pasajero/a",Compras domestico-familiares,20-44,Personas ocupadas,168,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, pasajero/a",Compras domestico-familiares,45-64,Personas ocupadas,85,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, pasajero/a",Otros,7-19,Estudiantes,118,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,262,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Hondarribia,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,103,43.2918111063554,-1.9885133578,43.3748851848767,-1.8239709632
+Donostia/San Sebastián,Irun,Autobus discrecional,Centro estudios,7-19,Estudiantes,256,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Autobus interurbano,Centro estudios,20-44,Estudiantes,217,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Autobus interurbano,Centro estudios,7-19,Estudiantes,217,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Autobus interurbano,Gestiones personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",217,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,713,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,107,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,248,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, conductor/a",Compras personales,45-64,Personas ocupadas,81,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,106,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,826,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,1256,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, pasajero/a",Compras personales,45-64,Personas ocupadas,81,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,200,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Moto,Trabajo habitual,45-64,Personas ocupadas,96,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Metro SS/Topo,Gestiones personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",210,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Metro SS/Topo,"Ocio, cultura, deporte",20-44,Personas ocupadas,270,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Metro SS/Topo,"Ocio, cultura, deporte",20-44,Tareas hogar,210,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Metro SS/Topo,Otros,45-64,Personas paradas,270,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Metro SS/Topo,Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",270,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Metro SS/Topo,Trabajo habitual,20-44,Personas ocupadas,690,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Renfe cercanias,Gestiones personales,45-64,Personas ocupadas,158,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Irun,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,158,43.2918111063554,-1.9885133578,43.318640571622,-1.77372589148
+Donostia/San Sebastián,Lazkao,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,206,43.2918111063554,-1.9885133578,43.0194888194631,-2.1671234871
+Donostia/San Sebastián,Lazkao,"Coche, pasajero/a",Medico / Hospital,7-19,Estudiantes,167,43.2918111063554,-1.9885133578,43.0194888194631,-2.1671234871
+Donostia/San Sebastián,Lezo,Autobus discrecional,Centro estudios,7-19,Estudiantes,88,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Lezo,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,251,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Lezo,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,166,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Lezo,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",105,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Lezo,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,82,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Lezo,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,388,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Lezo,"Coche, pasajero/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",100,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Lezo,Moto,Asuntos trabajo,45-64,Personas ocupadas,112,43.2918111063554,-1.9885133578,43.3263415090448,-1.885769548
+Donostia/San Sebastián,Ordizia,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,237,43.2918111063554,-1.9885133578,43.0637579709383,-2.1818318125
+Donostia/San Sebastián,Ordizia,"Coche, conductor/a",Otros,20-44,Estudiantes,138,43.2918111063554,-1.9885133578,43.0637579709383,-2.1818318125
+Donostia/San Sebastián,Ordizia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,205,43.2918111063554,-1.9885133578,43.0637579709383,-2.1818318125
+Donostia/San Sebastián,Ordizia,"Coche, pasajero/a",Gestiones personales,20-44,Personas ocupadas,142,43.2918111063554,-1.9885133578,43.0637579709383,-2.1818318125
+Donostia/San Sebastián,Ordizia,"Coche, pasajero/a",Gestiones personales,20-44,Tareas hogar,140,43.2918111063554,-1.9885133578,43.0637579709383,-2.1818318125
+Donostia/San Sebastián,Ordizia,Tren Renfe cercanias,Trabajo habitual,20-44,Personas ocupadas,401,43.2918111063554,-1.9885133578,43.0637579709383,-2.1818318125
+Donostia/San Sebastián,Orio,"Coche, conductor/a",Compras domestico-familiares,45-64,Tareas hogar,131,43.2918111063554,-1.9885133578,43.2774552762092,-2.1270561218
+Donostia/San Sebastián,Orio,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,132,43.2918111063554,-1.9885133578,43.2774552762092,-2.1270561218
+Donostia/San Sebastián,Orio,Tren EuskoTren,Centro estudios,7-19,Estudiantes,233,43.2918111063554,-1.9885133578,43.2774552762092,-2.1270561218
+Donostia/San Sebastián,Orio,Tren EuskoTren,"Ocio, cultura, deporte",45-64,Personas ocupadas,233,43.2918111063554,-1.9885133578,43.2774552762092,-2.1270561218
+Donostia/San Sebastián,Oñati,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1251,43.2918111063554,-1.9885133578,43.0178261678898,-2.4067931275
+Donostia/San Sebastián,Pasaia,Autobus discrecional,Centro estudios,7-19,Estudiantes,99,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,Acompanamiento,20-44,Tareas hogar,644,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,Acompanamiento,45-64,Personas paradas,251,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,Centro estudios,7-19,Estudiantes,251,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",251,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,"Ocio, cultura, deporte",45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",251,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,Otros,45-64,Personas paradas,322,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,502,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,502,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Acompanamiento,20-44,Personas paradas,168,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,146,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,127,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Compras personales,45-64,Personas ocupadas,103,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Gestiones domestico-familiares,20-44,Personas ocupadas,254,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,168,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a","Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",100,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,100,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Otra vivienda,45-64,Tareas hogar,146,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,442,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,788,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,252,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,118,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,"Coche, pasajero/a",Otra vivienda,20-44,Personas ocupadas,98,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Moto,Asuntos trabajo,20-44,Personas ocupadas,171,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Moto,Compras domestico-familiares,20-44,Personas ocupadas,98,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Moto,Trabajo habitual,20-44,Personas ocupadas,163,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Moto,Trabajo habitual,45-64,Personas ocupadas,293,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Multimodal,Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",178,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Tren Metro SS/Topo,Centro estudios,20-44,Personas paradas,277,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Tren Metro SS/Topo,"Ocio, cultura, deporte",20-44,Estudiantes,277,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Pasaia,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,118,43.2918111063554,-1.9885133578,43.318996,-1.969857
+Donostia/San Sebastián,Tolosa,Autobus interurbano,Centro estudios,20-44,Estudiantes,168,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,Autobus interurbano,Centro estudios,7-19,Estudiantes,384,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,Autobus interurbano,"Ocio, cultura, deporte",45-64,Personas ocupadas,168,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,176,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, conductor/a",Compras personales,20-44,Personas ocupadas,278,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, conductor/a",Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",214,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,802,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,302,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, pasajero/a",Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",218,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, pasajero/a",Compras personales,45-64,Personas ocupadas,236,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, pasajero/a",Medico / Hospital,45-64,Tareas hogar,176,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,302,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,Multimodal,Trabajo habitual,45-64,Personas ocupadas,168,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Tolosa,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,898,43.2918111063554,-1.9885133578,43.1077539093613,-2.0800512827
+Donostia/San Sebastián,Villabona,Autobus interurbano,Centro estudios,20-44,Estudiantes,84,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Villabona,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,84,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Villabona,"Coche, conductor/a",Compras personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",107,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Villabona,"Coche, conductor/a",Gestiones personales,20-44,"Personas jubiladas, pensionistas y otros tipos de inactividad",172,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Villabona,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,117,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Villabona,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,472,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Villabona,"Coche, pasajero/a",Acompanamiento,45-64,Personas ocupadas,116,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Villabona,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,88,43.2918111063554,-1.9885133578,43.1863841159828,-2.0308643183
+Donostia/San Sebastián,Zarautz,Autobus interurbano,Centro estudios,20-44,Estudiantes,297,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,Autobus interurbano,Centro estudios,20-44,Personas paradas,297,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,891,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,165,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Compras personales,45-64,Personas ocupadas,140,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,276,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,183,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",171,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,482,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,748,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,169,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, pasajero/a",Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",174,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,"Coche, pasajero/a","Ocio, cultura, deporte",20-44,Personas paradas,216,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,Multimodal,Trabajo habitual,45-64,Personas ocupadas,250,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zarautz,Tren EuskoTren,Centro estudios,7-19,Estudiantes,195,43.2918111063554,-1.9885133578,43.280963309723,-2.16722426204
+Donostia/San Sebastián,Zumaia,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,228,43.2918111063554,-1.9885133578,43.2876451846902,-2.2461133898
+Donostia/San Sebastián,Zumaia,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,115,43.2918111063554,-1.9885133578,43.2876451846902,-2.2461133898
+Donostia/San Sebastián,Zumaia,"Coche, conductor/a","Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",111,43.2918111063554,-1.9885133578,43.2876451846902,-2.2461133898
+Donostia/San Sebastián,Zumaia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,151,43.2918111063554,-1.9885133578,43.2876451846902,-2.2461133898
+Donostia/San Sebastián,Zumaia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,74,43.2918111063554,-1.9885133578,43.2876451846902,-2.2461133898
+Donostia/San Sebastián,Zumaia,"Coche, pasajero/a",Acompanamiento,20-44,Personas ocupadas,118,43.2918111063554,-1.9885133578,43.2876451846902,-2.2461133898
+Donostia/San Sebastián,Zumarraga,"Coche, conductor/a",Medico / Hospital,45-64,Personas paradas,157,43.2918111063554,-1.9885133578,43.1030792391374,-2.3156108273
+Donostia/San Sebastián,Zumarraga,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,170,43.2918111063554,-1.9885133578,43.1030792391374,-2.3156108273
+Donostia/San Sebastián,Zumarraga,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,135,43.2918111063554,-1.9885133578,43.1030792391374,-2.3156108273
+Donostia/San Sebastián,Zumarraga,Tren Renfe cercanias,Centro estudios,20-44,Estudiantes,312,43.2918111063554,-1.9885133578,43.1030792391374,-2.3156108273
+Eibar,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,430,43.1997782323138,-2.4616488769,43.0745226631642,-2.4841486565
+Eibar,Azpeitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,616,43.1997782323138,-2.4616488769,43.1624073640789,-2.2517858723
+Eibar,Azpeitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,277,43.1997782323138,-2.4616488769,43.1624073640789,-2.2517858723
+Eibar,Beasain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,932,43.1997782323138,-2.4616488769,43.0732613951147,-2.2179073142
+Eibar,Bergara,Autobus interurbano,Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",225,43.1997782323138,-2.4616488769,43.1220053801849,-2.4148383635
+Eibar,Bergara,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,225,43.1997782323138,-2.4616488769,43.1220053801849,-2.4148383635
+Eibar,Bergara,"Coche, conductor/a",Gestiones domestico-familiares,20-44,Personas ocupadas,161,43.1997782323138,-2.4616488769,43.1220053801849,-2.4148383635
+Eibar,Bergara,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,99,43.1997782323138,-2.4616488769,43.1220053801849,-2.4148383635
+Eibar,Bergara,"Coche, conductor/a",Gestiones personales,45-64,Personas paradas,99,43.1997782323138,-2.4616488769,43.1220053801849,-2.4148383635
+Eibar,Bergara,Multimodal,Trabajo habitual,45-64,Personas ocupadas,225,43.1997782323138,-2.4616488769,43.1220053801849,-2.4148383635
+Eibar,Deba,"Coche, conductor/a",Gestiones personales,20-44,Personas ocupadas,145,43.1997782323138,-2.4616488769,43.2945746872118,-2.3538208007
+Eibar,Deba,"Coche, conductor/a",Otros,45-64,Personas paradas,96,43.1997782323138,-2.4616488769,43.2945746872118,-2.3538208007
+Eibar,Deba,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,165,43.1997782323138,-2.4616488769,43.2945746872118,-2.3538208007
+Eibar,Deba,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,116,43.1997782323138,-2.4616488769,43.2945746872118,-2.3538208007
+Eibar,Deba,"Coche, pasajero/a",Otros,45-64,Personas ocupadas,95,43.1997782323138,-2.4616488769,43.2945746872118,-2.3538208007
+Eibar,Deba,Tren EuskoTren,Medico / Hospital,45-64,Personas paradas,132,43.1997782323138,-2.4616488769,43.2945746872118,-2.3538208007
+Eibar,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,979,43.1997782323138,-2.4616488769,43.2918111063554,-1.9885133578
+Eibar,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,65 y mas,Personas ocupadas,898,43.1997782323138,-2.4616488769,43.2918111063554,-1.9885133578
+Eibar,Donostia/San Sebastián,Multimodal,Trabajo habitual,45-64,Personas ocupadas,364,43.1997782323138,-2.4616488769,43.2918111063554,-1.9885133578
+Eibar,Mutriku,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,126,43.1997782323138,-2.4616488769,43.3016874985659,-2.3847547875
+Eibar,Mutriku,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,96,43.1997782323138,-2.4616488769,43.3016874985659,-2.3847547875
+Eibar,Mutriku,"Coche, pasajero/a",Acompanamiento,45-64,Personas ocupadas,127,43.1997782323138,-2.4616488769,43.3016874985659,-2.3847547875
+Eibar,Oñati,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,140,43.1997782323138,-2.4616488769,43.0178261678898,-2.4067931275
+Eibar,Zarautz,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,1090,43.1997782323138,-2.4616488769,43.280963309723,-2.16722426204
+Eibar,Zarautz,Tren EuskoTren,Trabajo habitual,45-64,Personas ocupadas,149,43.1997782323138,-2.4616488769,43.280963309723,-2.16722426204
+Errenteria,Andoain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,308,43.2553049551337,-1.8928623455,43.2194140168093,-2.0209083686
+Errenteria,Astigarraga,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,402,43.2553049551337,-1.8928623455,43.2797569478888,-1.9334342263
+Errenteria,Astigarraga,Moto,"Ocio, cultura, deporte",20-44,Personas ocupadas,314,43.2553049551337,-1.8928623455,43.2797569478888,-1.9334342263
+Errenteria,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Estudiantes,299,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Autobus interurbano,Gestiones personales,20-44,Personas paradas,299,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Autobus interurbano,"Ocio, cultura, deporte",20-44,Personas ocupadas,299,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Autobus interurbano,"Ocio, cultura, deporte",7-19,Estudiantes,299,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Autobus interurbano,Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",383,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,20-44,Estudiantes,299,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,897,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,350,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,542,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,404,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,196,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,171,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1050,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,1829,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,354,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Acompanamiento,20-44,Personas ocupadas,177,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,260,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Gestiones personales,20-44,Personas ocupadas,231,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Medico / Hospital,65 y mas,Tareas hogar,142,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Medico / Hospital,7-19,Estudiantes,138,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Otra vivienda,45-64,Personas paradas,150,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,363,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,346,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Moto,Trabajo habitual,20-44,Personas ocupadas,532,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Multimodal,Centro estudios,7-19,Estudiantes,192,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Multimodal,Trabajo habitual,20-44,Personas ocupadas,192,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Tren Metro SS/Topo,Acompanamiento,45-64,Personas ocupadas,192,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Tren Metro SS/Topo,Centro estudios,20-44,Estudiantes,384,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Tren Metro SS/Topo,Centro estudios,7-19,Estudiantes,960,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Tren Metro SS/Topo,"Ocio, cultura, deporte",45-64,Personas ocupadas,192,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Tren Metro SS/Topo,Trabajo habitual,20-44,Personas ocupadas,384,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Donostia/San Sebastián,Tren Metro SS/Topo,Trabajo habitual,45-64,Personas ocupadas,384,43.2553049551337,-1.8928623455,43.2918111063554,-1.9885133578
+Errenteria,Hernani,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,105,43.2553049551337,-1.8928623455,43.2387833429893,-1.9442591545
+Errenteria,Hernani,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,218,43.2553049551337,-1.8928623455,43.2387833429893,-1.9442591545
+Errenteria,Hernani,Multimodal,Medico / Hospital,45-64,Personas paradas,315,43.2553049551337,-1.8928623455,43.2387833429893,-1.9442591545
+Errenteria,Hondarribia,Autobus interurbano,Centro estudios,7-19,Estudiantes,215,43.2553049551337,-1.8928623455,43.3748851848767,-1.8239709632
+Errenteria,Hondarribia,"Coche, conductor/a",Gestiones personales,20-44,Personas paradas,250,43.2553049551337,-1.8928623455,43.3748851848767,-1.8239709632
+Errenteria,Hondarribia,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,274,43.2553049551337,-1.8928623455,43.3748851848767,-1.8239709632
+Errenteria,Hondarribia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,832,43.2553049551337,-1.8928623455,43.3748851848767,-1.8239709632
+Errenteria,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,161,43.2553049551337,-1.8928623455,43.3748851848767,-1.8239709632
+Errenteria,Hondarribia,Moto,Trabajo habitual,45-64,Personas ocupadas,279,43.2553049551337,-1.8928623455,43.3748851848767,-1.8239709632
+Errenteria,Hondarribia,Multimodal,Trabajo habitual,45-64,Personas ocupadas,119,43.2553049551337,-1.8928623455,43.3748851848767,-1.8239709632
+Errenteria,Irun,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,236,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,179,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, conductor/a",Gestiones personales,20-44,Personas ocupadas,179,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,203,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,315,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,346,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, pasajero/a",Gestiones personales,20-44,Personas ocupadas,183,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, pasajero/a",Gestiones personales,7-19,Estudiantes,126,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,"Coche, pasajero/a",Otra vivienda,20-44,Estudiantes,234,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,Moto,Centro estudios,7-19,Estudiantes,163,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,Tren Metro SS/Topo,Centro estudios,45-64,Personas paradas,259,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Irun,Tren Metro SS/Topo,Trabajo habitual,45-64,Personas ocupadas,777,43.2553049551337,-1.8928623455,43.318640571622,-1.77372589148
+Errenteria,Lezo,Autobus discrecional,Centro estudios,7-19,Estudiantes,217,43.2553049551337,-1.8928623455,43.3263415090448,-1.885769548
+Errenteria,Lezo,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,351,43.2553049551337,-1.8928623455,43.3263415090448,-1.885769548
+Errenteria,Lezo,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,283,43.2553049551337,-1.8928623455,43.3263415090448,-1.885769548
+Errenteria,Lezo,Moto,"Ocio, cultura, deporte",7-19,Estudiantes,283,43.2553049551337,-1.8928623455,43.3263415090448,-1.885769548
+Errenteria,Lezo,Moto,Trabajo habitual,20-44,Personas ocupadas,314,43.2553049551337,-1.8928623455,43.3263415090448,-1.885769548
+Errenteria,Orio,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,554,43.2553049551337,-1.8928623455,43.2774552762092,-2.1270561218
+Errenteria,Pasaia,Autobus interurbano,Centro estudios,20-44,Estudiantes,296,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,Autobus interurbano,Compras domestico-familiares,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",296,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,Bicicleta,Trabajo habitual,20-44,Personas ocupadas,238,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,410,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,351,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, conductor/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",247,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Tareas hogar,349,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, conductor/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",247,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,410,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,351,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,351,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,566,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Pasaia,"Coche, pasajero/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",252,43.2553049551337,-1.8928623455,43.318996,-1.969857
+Errenteria,Tolosa,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,239,43.2553049551337,-1.8928623455,43.1077539093613,-2.0800512827
+Errenteria,Tolosa,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,118,43.2553049551337,-1.8928623455,43.1077539093613,-2.0800512827
+Errenteria,Villabona,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,176,43.2553049551337,-1.8928623455,43.1863841159828,-2.0308643183
+Errenteria,Zarautz,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,492,43.2553049551337,-1.8928623455,43.280963309723,-2.16722426204
+Errenteria,Zarautz,Multimodal,"Ocio, cultura, deporte",7-19,Estudiantes,239,43.2553049551337,-1.8928623455,43.280963309723,-2.16722426204
+Errenteria,Zumarraga,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,349,43.2553049551337,-1.8928623455,43.1030792391374,-2.3156108273
+Hernani,Andoain,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,200,43.2387833429893,-1.9442591545,43.2194140168093,-2.0209083686
+Hernani,Andoain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,172,43.2387833429893,-1.9442591545,43.2194140168093,-2.0209083686
+Hernani,Andoain,Tren Renfe cercanias,Centro estudios,20-44,Estudiantes,205,43.2387833429893,-1.9442591545,43.2194140168093,-2.0209083686
+Hernani,Arrasate/Mondragón,"Coche, conductor/a",Acompanamiento,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",95,43.2387833429893,-1.9442591545,43.0745226631642,-2.4841486565
+Hernani,Arrasate/Mondragón,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,192,43.2387833429893,-1.9442591545,43.0745226631642,-2.4841486565
+Hernani,Arrasate/Mondragón,"Coche, pasajero/a",Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.2387833429893,-1.9442591545,43.0745226631642,-2.4841486565
+Hernani,Astigarraga,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,121,43.2387833429893,-1.9442591545,43.2797569478888,-1.9334342263
+Hernani,Astigarraga,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",121,43.2387833429893,-1.9442591545,43.2797569478888,-1.9334342263
+Hernani,Astigarraga,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,867,43.2387833429893,-1.9442591545,43.2797569478888,-1.9334342263
+Hernani,Astigarraga,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,100,43.2387833429893,-1.9442591545,43.2797569478888,-1.9334342263
+Hernani,Astigarraga,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,316,43.2387833429893,-1.9442591545,43.2797569478888,-1.9334342263
+Hernani,Beasain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,347,43.2387833429893,-1.9442591545,43.0732613951147,-2.2179073142
+Hernani,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Personas ocupadas,266,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Autobus interurbano,Centro estudios,7-19,Estudiantes,342,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Autobus interurbano,"Ocio, cultura, deporte",45-64,Personas paradas,266,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Autobus interurbano,Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",684,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,266,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,131,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,111,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,140,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",94,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,65 y mas,Personas paradas,110,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,145,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas paradas,110,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,162,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,247,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",114,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1537,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,913,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,220,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, pasajero/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",113,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, pasajero/a","Ocio, cultura, deporte",20-44,Personas ocupadas,110,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Tareas hogar,161,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Moto,Trabajo habitual,45-64,Personas ocupadas,110,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Multimodal,Trabajo habitual,45-64,Personas ocupadas,266,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Tren Renfe cercanias,Centro estudios,20-44,Estudiantes,174,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Tren Renfe cercanias,"Ocio, cultura, deporte",20-44,Estudiantes,174,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Donostia/San Sebastián,Tren Renfe cercanias,"Ocio, cultura, deporte",45-64,Tareas hogar,174,43.2387833429893,-1.9442591545,43.2918111063554,-1.9885133578
+Hernani,Errenteria,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,246,43.2387833429893,-1.9442591545,43.2553049551337,-1.8928623455
+Hernani,Errenteria,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,226,43.2387833429893,-1.9442591545,43.2553049551337,-1.8928623455
+Hernani,Errenteria,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,225,43.2387833429893,-1.9442591545,43.2553049551337,-1.8928623455
+Hernani,Errenteria,"Coche, pasajero/a",Medico / Hospital,45-64,Personas paradas,244,43.2387833429893,-1.9442591545,43.2553049551337,-1.8928623455
+Hernani,Hondarribia,"Coche, conductor/a",Compras personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.2387833429893,-1.9442591545,43.3748851848767,-1.8239709632
+Hernani,Hondarribia,"Coche, pasajero/a",Compras personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",95,43.2387833429893,-1.9442591545,43.3748851848767,-1.8239709632
+Hernani,Irun,"Coche, conductor/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",176,43.2387833429893,-1.9442591545,43.318640571622,-1.77372589148
+Hernani,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,248,43.2387833429893,-1.9442591545,43.318640571622,-1.77372589148
+Hernani,Irun,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,126,43.2387833429893,-1.9442591545,43.318640571622,-1.77372589148
+Hernani,Lezo,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,201,43.2387833429893,-1.9442591545,43.3263415090448,-1.885769548
+Hernani,Pasaia,Moto,Trabajo habitual,45-64,Personas ocupadas,172,43.2387833429893,-1.9442591545,43.318996,-1.969857
+Hernani,Tolosa,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,681,43.2387833429893,-1.9442591545,43.1077539093613,-2.0800512827
+Hernani,Tolosa,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,155,43.2387833429893,-1.9442591545,43.1077539093613,-2.0800512827
+Hernani,Villabona,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,92,43.2387833429893,-1.9442591545,43.1863841159828,-2.0308643183
+Hernani,Villabona,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,155,43.2387833429893,-1.9442591545,43.1863841159828,-2.0308643183
+Hernani,Zarautz,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,496,43.2387833429893,-1.9442591545,43.280963309723,-2.16722426204
+Hondarribia,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,165,43.3748851848767,-1.8239709632,43.0745226631642,-2.4841486565
+Hondarribia,Astigarraga,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,251,43.3748851848767,-1.8239709632,43.2797569478888,-1.9334342263
+Hondarribia,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Estudiantes,370,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,Autobus interurbano,Centro estudios,45-64,Personas paradas,185,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,Autobus interurbano,Compras personales,45-64,Personas ocupadas,185,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,Autobus interurbano,Gestiones domestico-familiares,45-64,Personas paradas,237,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,146,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,172,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas ocupadas,86,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, conductor/a",Compras personales,45-64,Personas ocupadas,190,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,301,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,692,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,119,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, pasajero/a",Compras domestico-familiares,20-44,Personas ocupadas,169,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, pasajero/a",Compras domestico-familiares,45-64,Personas ocupadas,85,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, pasajero/a",Otros,7-19,Estudiantes,119,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,264,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,104,43.3748851848767,-1.8239709632,43.2918111063554,-1.9885133578
+Hondarribia,Errenteria,Autobus interurbano,Centro estudios,7-19,Estudiantes,267,43.3748851848767,-1.8239709632,43.2553049551337,-1.8928623455
+Hondarribia,Errenteria,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,267,43.3748851848767,-1.8239709632,43.2553049551337,-1.8928623455
+Hondarribia,Errenteria,"Coche, conductor/a",Gestiones personales,20-44,Personas paradas,222,43.3748851848767,-1.8239709632,43.2553049551337,-1.8928623455
+Hondarribia,Errenteria,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,244,43.3748851848767,-1.8239709632,43.2553049551337,-1.8928623455
+Hondarribia,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,739,43.3748851848767,-1.8239709632,43.2553049551337,-1.8928623455
+Hondarribia,Errenteria,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,143,43.3748851848767,-1.8239709632,43.2553049551337,-1.8928623455
+Hondarribia,Errenteria,Moto,Trabajo habitual,45-64,Personas ocupadas,248,43.3748851848767,-1.8239709632,43.2553049551337,-1.8928623455
+Hondarribia,Hernani,"Coche, conductor/a",Compras personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.3748851848767,-1.8239709632,43.2387833429893,-1.9442591545
+Hondarribia,Hernani,"Coche, pasajero/a",Compras personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",95,43.3748851848767,-1.8239709632,43.2387833429893,-1.9442591545
+Hondarribia,Irun,Autobus interurbano,Centro estudios,7-19,Estudiantes,147,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,294,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,Bicicleta,Trabajo habitual,20-44,Personas ocupadas,795,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,795,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,396,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas ocupadas,1357,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",488,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Compras personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",478,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,393,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",579,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,476,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Estudiantes,795,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,1590,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a","Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",579,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,1071,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",478,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,795,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,2952,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,421,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, pasajero/a",Compras domestico-familiares,45-64,Personas ocupadas,676,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, pasajero/a",Medico / Hospital,45-64,Personas ocupadas,393,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, pasajero/a","Ocio, cultura, deporte",20-44,Personas ocupadas,609,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,393,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Irun,Moto,"Ocio, cultura, deporte",45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",522,43.3748851848767,-1.8239709632,43.318640571622,-1.77372589148
+Hondarribia,Lezo,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,146,43.3748851848767,-1.8239709632,43.3263415090448,-1.885769548
+Hondarribia,Lezo,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,251,43.3748851848767,-1.8239709632,43.3263415090448,-1.885769548
+Hondarribia,Tolosa,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,293,43.3748851848767,-1.8239709632,43.1077539093613,-2.0800512827
+Hondarribia,Zarautz,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,190,43.3748851848767,-1.8239709632,43.280963309723,-2.16722426204
+Irun,Andoain,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,156,43.318640571622,-1.77372589148,43.2194140168093,-2.0209083686
+Irun,Andoain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,182,43.318640571622,-1.77372589148,43.2194140168093,-2.0209083686
+Irun,Andoain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,145,43.318640571622,-1.77372589148,43.2194140168093,-2.0209083686
+Irun,Arrasate/Mondragón,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,766,43.318640571622,-1.77372589148,43.0745226631642,-2.4841486565
+Irun,Astigarraga,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,233,43.318640571622,-1.77372589148,43.2797569478888,-1.9334342263
+Irun,Astigarraga,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,237,43.318640571622,-1.77372589148,43.2797569478888,-1.9334342263
+Irun,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,753,43.318640571622,-1.77372589148,43.1220053801849,-2.4148383635
+Irun,Donostia/San Sebastián,Autobus discrecional,Centro estudios,7-19,Estudiantes,256,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Estudiantes,229,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Autobus interurbano,Centro estudios,7-19,Estudiantes,229,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Autobus interurbano,Gestiones personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",229,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Autobus interurbano,Otra vivienda,20-44,Estudiantes,229,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,752,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,310,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,249,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,82,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,82,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,832,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,1362,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, pasajero/a",Gestiones personales,45-64,Personas ocupadas,81,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, pasajero/a",Otra vivienda,45-64,Personas ocupadas,81,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,202,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Moto,Trabajo habitual,45-64,Personas ocupadas,97,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Metro SS/Topo,Gestiones personales,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",207,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Metro SS/Topo,"Ocio, cultura, deporte",20-44,Personas ocupadas,265,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Metro SS/Topo,"Ocio, cultura, deporte",20-44,Tareas hogar,207,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Metro SS/Topo,Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",265,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Metro SS/Topo,Trabajo habitual,20-44,Personas ocupadas,679,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Renfe cercanias,Gestiones personales,45-64,Personas ocupadas,174,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Renfe cercanias,"Ocio, cultura, deporte",20-44,Personas ocupadas,87,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Donostia/San Sebastián,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,174,43.318640571622,-1.77372589148,43.2918111063554,-1.9885133578
+Irun,Errenteria,"Coche, conductor/a",Gestiones personales,20-44,Personas ocupadas,392,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,"Coche, conductor/a",Otra vivienda,45-64,Personas ocupadas,443,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,784,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,755,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,"Coche, pasajero/a",Gestiones personales,20-44,Personas ocupadas,399,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,"Coche, pasajero/a",Gestiones personales,7-19,Estudiantes,276,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,Moto,Centro estudios,7-19,Estudiantes,357,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,Tren Metro SS/Topo,Centro estudios,45-64,Personas paradas,230,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Errenteria,Tren Metro SS/Topo,Trabajo habitual,45-64,Personas ocupadas,690,43.318640571622,-1.77372589148,43.2553049551337,-1.8928623455
+Irun,Hernani,"Coche, conductor/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",186,43.318640571622,-1.77372589148,43.2387833429893,-1.9442591545
+Irun,Hernani,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,262,43.318640571622,-1.77372589148,43.2387833429893,-1.9442591545
+Irun,Hernani,Multimodal,Trabajo habitual,45-64,Personas ocupadas,143,43.318640571622,-1.77372589148,43.2387833429893,-1.9442591545
+Irun,Hondarribia,Autobus interurbano,Centro estudios,7-19,Estudiantes,165,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,Autobus interurbano,"Ocio, cultura, deporte",20-44,Personas ocupadas,165,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,330,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,Bicicleta,Trabajo habitual,20-44,Personas ocupadas,774,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,386,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,463,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas ocupadas,1321,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",475,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Compras personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",466,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,769,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",564,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Estudiantes,774,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,2772,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a","Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",564,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,593,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",466,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,774,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,3023,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,410,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, pasajero/a",Compras domestico-familiares,45-64,Personas ocupadas,658,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, pasajero/a",Medico / Hospital,45-64,Personas ocupadas,383,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, pasajero/a",Otra vivienda,7-19,Estudiantes,410,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,383,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Hondarribia,Moto,"Ocio, cultura, deporte",45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",508,43.318640571622,-1.77372589148,43.3748851848767,-1.8239709632
+Irun,Lezo,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,374,43.318640571622,-1.77372589148,43.3263415090448,-1.885769548
+Irun,Lezo,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,526,43.318640571622,-1.77372589148,43.3263415090448,-1.885769548
+Irun,Lezo,Tren Metro SS/Topo,Otros,7-19,Estudiantes,367,43.318640571622,-1.77372589148,43.3263415090448,-1.885769548
+Irun,Pasaia,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,180,43.318640571622,-1.77372589148,43.318996,-1.969857
+Irun,Pasaia,"Coche, conductor/a",Gestiones domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",144,43.318640571622,-1.77372589148,43.318996,-1.969857
+Irun,Pasaia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,118,43.318640571622,-1.77372589148,43.318996,-1.969857
+Irun,Pasaia,"Coche, pasajero/a",Compras domestico-familiares,45-64,Personas ocupadas,156,43.318640571622,-1.77372589148,43.318996,-1.969857
+Irun,Pasaia,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,137,43.318640571622,-1.77372589148,43.318996,-1.969857
+Irun,Pasaia,Tren Metro SS/Topo,Centro estudios,20-44,Estudiantes,367,43.318640571622,-1.77372589148,43.318996,-1.969857
+Irun,Pasaia,Tren Metro SS/Topo,Centro estudios,7-19,Estudiantes,367,43.318640571622,-1.77372589148,43.318996,-1.969857
+Irun,Tolosa,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,363,43.318640571622,-1.77372589148,43.1077539093613,-2.0800512827
+Irun,Tolosa,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,370,43.318640571622,-1.77372589148,43.1077539093613,-2.0800512827
+Irun,Tolosa,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,312,43.318640571622,-1.77372589148,43.1077539093613,-2.0800512827
+Irun,Zarautz,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,1822,43.318640571622,-1.77372589148,43.280963309723,-2.16722426204
+Irun,Zarautz,Tren EuskoTren,Trabajo habitual,45-64,Personas ocupadas,258,43.318640571622,-1.77372589148,43.280963309723,-2.16722426204
+Lazkao,Beasain,"Coche, conductor/a",Compras domestico-familiares,45-64,Personas paradas,163,43.0194888194631,-2.1671234871,43.0732613951147,-2.2179073142
+Lazkao,Beasain,"Coche, conductor/a","Ocio, cultura, deporte",45-64,Personas ocupadas,163,43.0194888194631,-2.1671234871,43.0732613951147,-2.2179073142
+Lazkao,Beasain,"Coche, conductor/a",Otra vivienda,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.0194888194631,-2.1671234871,43.0732613951147,-2.2179073142
+Lazkao,Beasain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,147,43.0194888194631,-2.1671234871,43.0732613951147,-2.2179073142
+Lazkao,Beasain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,190,43.0194888194631,-2.1671234871,43.0732613951147,-2.2179073142
+Lazkao,Beasain,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,118,43.0194888194631,-2.1671234871,43.0732613951147,-2.2179073142
+Lazkao,Ordizia,"Coche, conductor/a",Acompanamiento,45-64,Personas paradas,163,43.0194888194631,-2.1671234871,43.0637579709383,-2.1818318125
+Lazkao,Ordizia,"Coche, pasajero/a",Gestiones personales,7-19,Estudiantes,132,43.0194888194631,-2.1671234871,43.0637579709383,-2.1818318125
+Legazpi,Azpeitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,231,43.0307535874133,-2.3423674188,43.1624073640789,-2.2517858723
+Legazpi,Beasain,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,164,43.0307535874133,-2.3423674188,43.0732613951147,-2.2179073142
+Legazpi,Beasain,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,191,43.0307535874133,-2.3423674188,43.0732613951147,-2.2179073142
+Legazpi,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,230,43.0307535874133,-2.3423674188,43.2918111063554,-1.9885133578
+Legazpi,Ordizia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,95,43.0307535874133,-2.3423674188,43.0637579709383,-2.1818318125
+Legazpi,Oñati,Autobus interurbano,Centro estudios,7-19,Estudiantes,221,43.0307535874133,-2.3423674188,43.0178261678898,-2.4067931275
+Legazpi,Oñati,"Coche, conductor/a",Otra vivienda,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",161,43.0307535874133,-2.3423674188,43.0178261678898,-2.4067931275
+Legazpi,Zumarraga,Autobus interurbano,Centro estudios,20-44,Personas ocupadas,182,43.0307535874133,-2.3423674188,43.1030792391374,-2.3156108273
+Legazpi,Zumarraga,Autobus interurbano,Otros,45-64,Personas ocupadas,182,43.0307535874133,-2.3423674188,43.1030792391374,-2.3156108273
+Legazpi,Zumarraga,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,111,43.0307535874133,-2.3423674188,43.1030792391374,-2.3156108273
+Legazpi,Zumarraga,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,132,43.0307535874133,-2.3423674188,43.1030792391374,-2.3156108273
+Legazpi,Zumarraga,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,258,43.0307535874133,-2.3423674188,43.1030792391374,-2.3156108273
+Legazpi,Zumarraga,"Coche, pasajero/a",Trabajo habitual,20-44,Personas paradas,109,43.0307535874133,-2.3423674188,43.1030792391374,-2.3156108273
+Lezo,Donostia/San Sebastián,Autobus discrecional,Centro estudios,7-19,Estudiantes,88,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,Autobus interurbano,Acompanamiento,20-44,Personas ocupadas,239,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,166,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,83,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,166,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",105,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,82,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,222,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,147,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,"Coche, pasajero/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",100,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Donostia/San Sebastián,Moto,Trabajo habitual,45-64,Personas ocupadas,112,43.3263415090448,-1.885769548,43.2918111063554,-1.9885133578
+Lezo,Errenteria,Autobus discrecional,Centro estudios,7-19,Estudiantes,212,43.3263415090448,-1.885769548,43.2553049551337,-1.8928623455
+Lezo,Errenteria,"Coche, conductor/a",Acompanamiento,45-64,Tareas hogar,341,43.3263415090448,-1.885769548,43.2553049551337,-1.8928623455
+Lezo,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,229,43.3263415090448,-1.885769548,43.2553049551337,-1.8928623455
+Lezo,Errenteria,"Coche, pasajero/a",Acompanamiento,45-64,Personas ocupadas,344,43.3263415090448,-1.885769548,43.2553049551337,-1.8928623455
+Lezo,Errenteria,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,554,43.3263415090448,-1.885769548,43.2553049551337,-1.8928623455
+Lezo,Errenteria,Moto,"Ocio, cultura, deporte",7-19,Estudiantes,277,43.3263415090448,-1.885769548,43.2553049551337,-1.8928623455
+Lezo,Errenteria,Moto,Trabajo habitual,20-44,Personas ocupadas,307,43.3263415090448,-1.885769548,43.2553049551337,-1.8928623455
+Lezo,Hernani,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,199,43.3263415090448,-1.885769548,43.2387833429893,-1.9442591545
+Lezo,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,234,43.3263415090448,-1.885769548,43.3748851848767,-1.8239709632
+Lezo,Irun,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,237,43.3263415090448,-1.885769548,43.318640571622,-1.77372589148
+Lezo,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,644,43.3263415090448,-1.885769548,43.318640571622,-1.77372589148
+Lezo,Irun,Tren Metro SS/Topo,Otros,7-19,Estudiantes,382,43.3263415090448,-1.885769548,43.318640571622,-1.77372589148
+Lezo,Pasaia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,624,43.3263415090448,-1.885769548,43.318996,-1.969857
+Mutriku,Bergara,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,141,43.3016874985659,-2.3847547875,43.1220053801849,-2.4148383635
+Mutriku,Deba,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,95,43.3016874985659,-2.3847547875,43.2945746872118,-2.3538208007
+Mutriku,Deba,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,94,43.3016874985659,-2.3847547875,43.2945746872118,-2.3538208007
+Mutriku,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,524,43.3016874985659,-2.3847547875,43.2918111063554,-1.9885133578
+Mutriku,Eibar,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,127,43.3016874985659,-2.3847547875,43.1997782323138,-2.4616488769
+Mutriku,Eibar,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,97,43.3016874985659,-2.3847547875,43.1997782323138,-2.4616488769
+Ordizia,Azkoitia,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,265,43.0637579709383,-2.1818318125,43.1706487685027,-2.3309631204
+Ordizia,Azkoitia,"Coche, pasajero/a",Medico / Hospital,7-19,Estudiantes,183,43.0637579709383,-2.1818318125,43.1706487685027,-2.3309631204
+Ordizia,Beasain,Autobus interurbano,Centro estudios,7-19,Estudiantes,364,43.0637579709383,-2.1818318125,43.0732613951147,-2.2179073142
+Ordizia,Beasain,Bicicleta,Centro estudios,7-19,Estudiantes,132,43.0637579709383,-2.1818318125,43.0732613951147,-2.2179073142
+Ordizia,Beasain,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,144,43.0637579709383,-2.1818318125,43.0732613951147,-2.2179073142
+Ordizia,Beasain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,111,43.0637579709383,-2.1818318125,43.0732613951147,-2.2179073142
+Ordizia,Beasain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,126,43.0637579709383,-2.1818318125,43.0732613951147,-2.2179073142
+Ordizia,Beasain,"Coche, pasajero/a","Ocio, cultura, deporte",45-64,Personas ocupadas,163,43.0637579709383,-2.1818318125,43.0732613951147,-2.2179073142
+Ordizia,Beasain,Moto,Trabajo habitual,20-44,Personas ocupadas,147,43.0637579709383,-2.1818318125,43.0732613951147,-2.2179073142
+Ordizia,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,120,43.0637579709383,-2.1818318125,43.1220053801849,-2.4148383635
+Ordizia,Deba,"Coche, pasajero/a",Compras domestico-familiares,20-44,Personas ocupadas,788,43.0637579709383,-2.1818318125,43.2945746872118,-2.3538208007
+Ordizia,Deba,"Coche, pasajero/a",Compras domestico-familiares,20-44,Tareas hogar,774,43.0637579709383,-2.1818318125,43.2945746872118,-2.3538208007
+Ordizia,Donostia/San Sebastián,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,218,43.0637579709383,-2.1818318125,43.2918111063554,-1.9885133578
+Ordizia,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,375,43.0637579709383,-2.1818318125,43.2918111063554,-1.9885133578
+Ordizia,Donostia/San Sebastián,Tren Renfe cercanias,Trabajo habitual,20-44,Personas ocupadas,361,43.0637579709383,-2.1818318125,43.2918111063554,-1.9885133578
+Ordizia,Lazkao,"Coche, conductor/a",Acompanamiento,45-64,Personas paradas,163,43.0637579709383,-2.1818318125,43.0194888194631,-2.1671234871
+Ordizia,Lazkao,"Coche, pasajero/a",Gestiones personales,7-19,Estudiantes,132,43.0637579709383,-2.1818318125,43.0194888194631,-2.1671234871
+Ordizia,Legazpi,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,95,43.0637579709383,-2.1818318125,43.0307535874133,-2.3423674188
+Ordizia,Oñati,Bicicleta,"Ocio, cultura, deporte",20-44,Personas ocupadas,237,43.0637579709383,-2.1818318125,43.0178261678898,-2.4067931275
+Ordizia,Tolosa,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,251,43.0637579709383,-2.1818318125,43.1077539093613,-2.0800512827
+Ordizia,Tolosa,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,130,43.0637579709383,-2.1818318125,43.1077539093613,-2.0800512827
+Ordizia,Zumarraga,"Coche, conductor/a",Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.0637579709383,-2.1818318125,43.1030792391374,-2.3156108273
+Ordizia,Zumarraga,"Coche, pasajero/a",Medico / Hospital,65 y mas,Tareas hogar,118,43.0637579709383,-2.1818318125,43.1030792391374,-2.3156108273
+Orio,Andoain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,298,43.2774552762092,-2.1270561218,43.2194140168093,-2.0209083686
+Orio,Azpeitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,203,43.2774552762092,-2.1270561218,43.1624073640789,-2.2517858723
+Orio,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,262,43.2774552762092,-2.1270561218,43.1220053801849,-2.4148383635
+Orio,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,45-64,Tareas hogar,234,43.2774552762092,-2.1270561218,43.2918111063554,-1.9885133578
+Orio,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,236,43.2774552762092,-2.1270561218,43.2918111063554,-1.9885133578
+Orio,Donostia/San Sebastián,Tren EuskoTren,Centro estudios,7-19,Estudiantes,212,43.2774552762092,-2.1270561218,43.2918111063554,-1.9885133578
+Orio,Donostia/San Sebastián,Tren EuskoTren,"Ocio, cultura, deporte",45-64,Personas ocupadas,212,43.2774552762092,-2.1270561218,43.2918111063554,-1.9885133578
+Orio,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,296,43.2774552762092,-2.1270561218,43.2553049551337,-1.8928623455
+Orio,Tolosa,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",274,43.2774552762092,-2.1270561218,43.1077539093613,-2.0800512827
+Orio,Tolosa,"Coche, pasajero/a",Otros,65 y mas,Tareas hogar,280,43.2774552762092,-2.1270561218,43.1077539093613,-2.0800512827
+Orio,Villabona,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,384,43.2774552762092,-2.1270561218,43.1863841159828,-2.0308643183
+Orio,Zarautz,Autobus discrecional,Centro estudios,7-19,Estudiantes,115,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Orio,Zarautz,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,193,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Orio,Zarautz,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,190,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Orio,Zarautz,"Coche, pasajero/a",Asuntos trabajo,45-64,Personas ocupadas,165,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Orio,Zarautz,Moto,Gestiones personales,45-64,Personas ocupadas,116,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Orio,Zarautz,Tren EuskoTren,Trabajo habitual,20-44,Personas ocupadas,296,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Orio,Zarautz,Tren Metro SS/Topo,Acompanamiento,20-44,Personas ocupadas,296,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Orio,Zarautz,Tren Metro SS/Topo,Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",296,43.2774552762092,-2.1270561218,43.280963309723,-2.16722426204
+Oñati,Arrasate/Mondragón,Autobus interurbano,Centro estudios,7-19,Estudiantes,170,43.0178261678898,-2.4067931275,43.0745226631642,-2.4841486565
+Oñati,Arrasate/Mondragón,Autobus interurbano,Trabajo habitual,7-19,Personas ocupadas,170,43.0178261678898,-2.4067931275,43.0745226631642,-2.4841486565
+Oñati,Arrasate/Mondragón,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,218,43.0178261678898,-2.4067931275,43.0745226631642,-2.4841486565
+Oñati,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,720,43.0178261678898,-2.4067931275,43.0745226631642,-2.4841486565
+Oñati,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,286,43.0178261678898,-2.4067931275,43.0745226631642,-2.4841486565
+Oñati,Arrasate/Mondragón,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,191,43.0178261678898,-2.4067931275,43.0745226631642,-2.4841486565
+Oñati,Azkoitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,337,43.0178261678898,-2.4067931275,43.1706487685027,-2.3309631204
+Oñati,Bergara,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,136,43.0178261678898,-2.4067931275,43.1220053801849,-2.4148383635
+Oñati,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,178,43.0178261678898,-2.4067931275,43.2918111063554,-1.9885133578
+Oñati,Eibar,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,210,43.0178261678898,-2.4067931275,43.1997782323138,-2.4616488769
+Oñati,Legazpi,"Coche, conductor/a",Otra vivienda,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",161,43.0178261678898,-2.4067931275,43.0307535874133,-2.3423674188
+Oñati,Legazpi,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,167,43.0178261678898,-2.4067931275,43.0307535874133,-2.3423674188
+Oñati,Ordizia,Bicicleta,"Ocio, cultura, deporte",20-44,Personas ocupadas,237,43.0178261678898,-2.4067931275,43.0637579709383,-2.1818318125
+Oñati,Ordizia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,159,43.0178261678898,-2.4067931275,43.0637579709383,-2.1818318125
+Pasaia,Donostia/San Sebastián,Autobus discrecional,Centro estudios,7-19,Estudiantes,99,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Autobus interurbano,Acompanamiento,20-44,Tareas hogar,614,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Autobus interurbano,Acompanamiento,45-64,Personas paradas,239,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Autobus interurbano,Centro estudios,7-19,Estudiantes,239,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Autobus interurbano,Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",239,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Autobus interurbano,"Ocio, cultura, deporte",45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",239,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,239,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,45-64,Personas ocupadas,478,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,171,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,20-44,Personas paradas,168,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,146,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,254,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,103,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",20-44,Personas ocupadas,168,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",100,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,100,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,45-64,Tareas hogar,146,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,400,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas paradas,131,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,788,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,253,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a",Compras domestico-familiares,20-44,Personas ocupadas,127,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a",Medico / Hospital,20-44,Personas ocupadas,100,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a",Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",127,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,119,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a",Otra vivienda,20-44,Personas ocupadas,98,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,118,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,112,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Moto,Asuntos trabajo,20-44,Personas ocupadas,171,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Moto,"Ocio, cultura, deporte",20-44,Personas ocupadas,98,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Moto,Trabajo habitual,20-44,Personas ocupadas,163,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Moto,Trabajo habitual,45-64,Personas ocupadas,293,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Tren Metro SS/Topo,Centro estudios,20-44,Personas paradas,284,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Tren Metro SS/Topo,"Ocio, cultura, deporte",20-44,Estudiantes,284,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Tren Metro SS/Topo,Otra vivienda,45-64,Personas paradas,365,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Donostia/San Sebastián,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,80,43.318996,-1.969857,43.2918111063554,-1.9885133578
+Pasaia,Errenteria,Autobus interurbano,Centro estudios,20-44,Estudiantes,376,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,Autobus interurbano,Compras domestico-familiares,45-64,"Personas jubiladas, pensionistas y otros tipos de inactividad",376,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,376,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,Bicicleta,Trabajo habitual,20-44,Personas ocupadas,233,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,401,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,401,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, conductor/a",Gestiones personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",242,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, conductor/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",242,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,401,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,688,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,277,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Errenteria,"Coche, pasajero/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",246,43.318996,-1.969857,43.2553049551337,-1.8928623455
+Pasaia,Hernani,Moto,Trabajo habitual,45-64,Personas ocupadas,171,43.318996,-1.969857,43.2387833429893,-1.9442591545
+Pasaia,Irun,"Coche, conductor/a",Compras domestico-familiares,20-44,Personas ocupadas,180,43.318996,-1.969857,43.318640571622,-1.77372589148
+Pasaia,Irun,"Coche, conductor/a",Otra vivienda,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",144,43.318996,-1.969857,43.318640571622,-1.77372589148
+Pasaia,Irun,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,118,43.318996,-1.969857,43.318640571622,-1.77372589148
+Pasaia,Irun,"Coche, pasajero/a",Compras domestico-familiares,45-64,Personas ocupadas,156,43.318996,-1.969857,43.318640571622,-1.77372589148
+Pasaia,Irun,Tren Metro SS/Topo,Centro estudios,20-44,Estudiantes,382,43.318996,-1.969857,43.318640571622,-1.77372589148
+Pasaia,Irun,Tren Metro SS/Topo,Centro estudios,7-19,Estudiantes,382,43.318996,-1.969857,43.318640571622,-1.77372589148
+Pasaia,Lezo,"Coche, conductor/a",Acompanamiento,45-64,Tareas hogar,268,43.318996,-1.969857,43.3263415090448,-1.885769548
+Pasaia,Lezo,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,624,43.318996,-1.969857,43.3263415090448,-1.885769548
+Pasaia,Lezo,"Coche, pasajero/a",Acompanamiento,45-64,Personas ocupadas,270,43.318996,-1.969857,43.3263415090448,-1.885769548
+Pasaia,Lezo,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,218,43.318996,-1.969857,43.3263415090448,-1.885769548
+Pasaia,Zarautz,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,281,43.318996,-1.969857,43.280963309723,-2.16722426204
+Pasaia,Zarautz,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,417,43.318996,-1.969857,43.280963309723,-2.16722426204
+Tolosa,Andoain,Autobus interurbano,Centro estudios,7-19,Estudiantes,148,43.1077539093613,-2.0800512827,43.2194140168093,-2.0209083686
+Tolosa,Andoain,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,184,43.1077539093613,-2.0800512827,43.2194140168093,-2.0209083686
+Tolosa,Andoain,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,156,43.1077539093613,-2.0800512827,43.2194140168093,-2.0209083686
+Tolosa,Andoain,"Coche, pasajero/a",Medico / Hospital,45-64,Personas ocupadas,156,43.1077539093613,-2.0800512827,43.2194140168093,-2.0209083686
+Tolosa,Andoain,Tren Renfe cercanias,Centro estudios,45-64,Personas paradas,190,43.1077539093613,-2.0800512827,43.2194140168093,-2.0209083686
+Tolosa,Beasain,"Coche, conductor/a",Otros,20-44,Personas ocupadas,93,43.1077539093613,-2.0800512827,43.0732613951147,-2.2179073142
+Tolosa,Beasain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,138,43.1077539093613,-2.0800512827,43.0732613951147,-2.2179073142
+Tolosa,Beasain,Multimodal,Trabajo habitual,45-64,Personas ocupadas,502,43.1077539093613,-2.0800512827,43.0732613951147,-2.2179073142
+Tolosa,Beasain,Tren Renfe cercanias,Trabajo habitual,20-44,Personas ocupadas,502,43.1077539093613,-2.0800512827,43.0732613951147,-2.2179073142
+Tolosa,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Estudiantes,162,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,Autobus interurbano,Centro estudios,7-19,Estudiantes,370,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,Autobus interurbano,Gestiones domestico-familiares,45-64,Personas ocupadas,162,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,81,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,106,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",98,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,366,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,276,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, pasajero/a",Acompanamiento,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",100,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, pasajero/a",Medico / Hospital,45-64,Tareas hogar,80,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,138,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,Multimodal,Trabajo habitual,45-64,Personas ocupadas,106,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Donostia/San Sebastián,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,400,43.1077539093613,-2.0800512827,43.2918111063554,-1.9885133578
+Tolosa,Errenteria,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,440,43.1077539093613,-2.0800512827,43.2553049551337,-1.8928623455
+Tolosa,Hernani,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,703,43.1077539093613,-2.0800512827,43.2387833429893,-1.9442591545
+Tolosa,Hernani,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,160,43.1077539093613,-2.0800512827,43.2387833429893,-1.9442591545
+Tolosa,Hondarribia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,293,43.1077539093613,-2.0800512827,43.3748851848767,-1.8239709632
+Tolosa,Irun,"Coche, conductor/a",Acompanamiento,20-44,Personas ocupadas,485,43.1077539093613,-2.0800512827,43.318640571622,-1.77372589148
+Tolosa,Irun,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,494,43.1077539093613,-2.0800512827,43.318640571622,-1.77372589148
+Tolosa,Ordizia,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,144,43.1077539093613,-2.0800512827,43.0637579709383,-2.1818318125
+Tolosa,Ordizia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,118,43.1077539093613,-2.0800512827,43.0637579709383,-2.1818318125
+Tolosa,Ordizia,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,127,43.1077539093613,-2.0800512827,43.0637579709383,-2.1818318125
+Tolosa,Orio,"Coche, conductor/a",Otros,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",244,43.1077539093613,-2.0800512827,43.2774552762092,-2.1270561218
+Tolosa,Orio,"Coche, pasajero/a",Otros,65 y mas,Tareas hogar,249,43.1077539093613,-2.0800512827,43.2774552762092,-2.1270561218
+Tolosa,Pasaia,"Coche, conductor/a",Asuntos trabajo,20-44,Personas ocupadas,240,43.1077539093613,-2.0800512827,43.318996,-1.969857
+Tolosa,Villabona,Autobus interurbano,Centro estudios,7-19,Estudiantes,49,43.1077539093613,-2.0800512827,43.1863841159828,-2.0308643183
+Tolosa,Villabona,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,516,43.1077539093613,-2.0800512827,43.1863841159828,-2.0308643183
+Tolosa,Villabona,Taxi,Medico / Hospital,45-64,Personas ocupadas,116,43.1077539093613,-2.0800512827,43.1863841159828,-2.0308643183
+Villabona,Andoain,Autobus interurbano,"Ocio, cultura, deporte",7-19,Estudiantes,148,43.1863841159828,-2.0308643183,43.2194140168093,-2.0209083686
+Villabona,Andoain,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,301,43.1863841159828,-2.0308643183,43.2194140168093,-2.0209083686
+Villabona,Andoain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,280,43.1863841159828,-2.0308643183,43.2194140168093,-2.0209083686
+Villabona,Andoain,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,140,43.1863841159828,-2.0308643183,43.2194140168093,-2.0209083686
+Villabona,Andoain,"Coche, pasajero/a","Ocio, cultura, deporte",7-19,Estudiantes,324,43.1863841159828,-2.0308643183,43.2194140168093,-2.0209083686
+Villabona,Andoain,Tren Renfe cercanias,"Ocio, cultura, deporte",7-19,Estudiantes,190,43.1863841159828,-2.0308643183,43.2194140168093,-2.0209083686
+Villabona,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Estudiantes,162,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,"Coche, conductor/a",Acompanamiento,45-64,Personas ocupadas,138,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,"Coche, conductor/a",Compras personales,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",98,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,"Coche, conductor/a",Gestiones personales,20-44,"Personas jubiladas, pensionistas y otros tipos de inactividad",158,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,107,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,294,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,"Coche, pasajero/a",Acompanamiento,45-64,Personas ocupadas,106,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,80,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Donostia/San Sebastián,Tren Renfe cercanias,Trabajo habitual,45-64,Personas ocupadas,175,43.1863841159828,-2.0308643183,43.2918111063554,-1.9885133578
+Villabona,Errenteria,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,652,43.1863841159828,-2.0308643183,43.2553049551337,-1.8928623455
+Villabona,Hernani,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,95,43.1863841159828,-2.0308643183,43.2387833429893,-1.9442591545
+Villabona,Hernani,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,160,43.1863841159828,-2.0308643183,43.2387833429893,-1.9442591545
+Villabona,Orio,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,342,43.1863841159828,-2.0308643183,43.2774552762092,-2.1270561218
+Villabona,Tolosa,Autobus interurbano,Centro estudios,7-19,Estudiantes,49,43.1863841159828,-2.0308643183,43.1077539093613,-2.0800512827
+Villabona,Tolosa,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,134,43.1863841159828,-2.0308643183,43.1077539093613,-2.0800512827
+Villabona,Tolosa,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,382,43.1863841159828,-2.0308643183,43.1077539093613,-2.0800512827
+Villabona,Tolosa,Taxi,Medico / Hospital,45-64,Personas ocupadas,116,43.1863841159828,-2.0308643183,43.1077539093613,-2.0800512827
+Zarautz,Andoain,"Coche, conductor/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",238,43.280963309723,-2.16722426204,43.2194140168093,-2.0209083686
+Zarautz,Andoain,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,239,43.280963309723,-2.16722426204,43.2194140168093,-2.0209083686
+Zarautz,Andoain,"Coche, pasajero/a",Compras domestico-familiares,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",243,43.280963309723,-2.16722426204,43.2194140168093,-2.0209083686
+Zarautz,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,643,43.280963309723,-2.16722426204,43.0745226631642,-2.4841486565
+Zarautz,Azkoitia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,193,43.280963309723,-2.16722426204,43.1706487685027,-2.3309631204
+Zarautz,Azkoitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,94,43.280963309723,-2.16722426204,43.1706487685027,-2.3309631204
+Zarautz,Azpeitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,166,43.280963309723,-2.16722426204,43.1624073640789,-2.2517858723
+Zarautz,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,286,43.280963309723,-2.16722426204,43.1220053801849,-2.4148383635
+Zarautz,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Estudiantes,506,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,Autobus interurbano,Centro estudios,20-44,Personas paradas,253,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,506,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,150,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,251,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,167,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,439,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,973,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,65 y mas,Personas ocupadas,154,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,"Coche, pasajero/a","Ocio, cultura, deporte",20-44,Personas paradas,196,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,Multimodal,Trabajo habitual,45-64,Personas ocupadas,253,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,Tren EuskoTren,Centro estudios,7-19,Estudiantes,197,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Donostia/San Sebastián,Tren EuskoTren,Trabajo habitual,20-44,Personas ocupadas,197,43.280963309723,-2.16722426204,43.2918111063554,-1.9885133578
+Zarautz,Eibar,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,415,43.280963309723,-2.16722426204,43.1997782323138,-2.4616488769
+Zarautz,Eibar,"Coche, pasajero/a",Trabajo habitual,20-44,Personas ocupadas,329,43.280963309723,-2.16722426204,43.1997782323138,-2.4616488769
+Zarautz,Errenteria,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,536,43.280963309723,-2.16722426204,43.2553049551337,-1.8928623455
+Zarautz,Errenteria,Multimodal,"Ocio, cultura, deporte",7-19,Estudiantes,220,43.280963309723,-2.16722426204,43.2553049551337,-1.8928623455
+Zarautz,Hernani,"Coche, pasajero/a",Asuntos trabajo,45-64,Personas ocupadas,496,43.280963309723,-2.16722426204,43.2387833429893,-1.9442591545
+Zarautz,Irun,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,933,43.280963309723,-2.16722426204,43.318640571622,-1.77372589148
+Zarautz,Irun,Tren EuskoTren,Trabajo habitual,45-64,Personas ocupadas,265,43.280963309723,-2.16722426204,43.318640571622,-1.77372589148
+Zarautz,Orio,Autobus discrecional,Centro estudios,7-19,Estudiantes,116,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,166,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,193,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,192,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,166,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,Moto,Gestiones personales,45-64,Personas ocupadas,117,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,Tren EuskoTren,Trabajo habitual,20-44,Personas ocupadas,328,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,Tren Metro SS/Topo,Acompanamiento,20-44,Personas ocupadas,328,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Orio,Tren Metro SS/Topo,Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",328,43.280963309723,-2.16722426204,43.2774552762092,-2.1270561218
+Zarautz,Pasaia,"Coche, conductor/a",Gestiones personales,45-64,Personas ocupadas,260,43.280963309723,-2.16722426204,43.318996,-1.969857
+Zarautz,Pasaia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,385,43.280963309723,-2.16722426204,43.318996,-1.969857
+Zarautz,Zumaia,Autobus interurbano,Centro estudios,20-44,Estudiantes,235,43.280963309723,-2.16722426204,43.2876451846902,-2.2461133898
+Zarautz,Zumaia,Autobus interurbano,"Ocio, cultura, deporte",7-19,Estudiantes,235,43.280963309723,-2.16722426204,43.2876451846902,-2.2461133898
+Zarautz,Zumaia,Bicicleta,"Ocio, cultura, deporte",20-44,Personas ocupadas,112,43.280963309723,-2.16722426204,43.2876451846902,-2.2461133898
+Zarautz,Zumaia,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,193,43.280963309723,-2.16722426204,43.2876451846902,-2.2461133898
+Zarautz,Zumaia,"Coche, pasajero/a",Acompanamiento,20-44,Personas ocupadas,148,43.280963309723,-2.16722426204,43.2876451846902,-2.2461133898
+Zumaia,Azkoitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,176,43.2876451846902,-2.2461133898,43.1706487685027,-2.3309631204
+Zumaia,Azpeitia,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,177,43.2876451846902,-2.2461133898,43.1624073640789,-2.2517858723
+Zumaia,Deba,Autobus discrecional,Trabajo habitual,45-64,Personas ocupadas,158,43.2876451846902,-2.2461133898,43.2945746872118,-2.3538208007
+Zumaia,Deba,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,140,43.2876451846902,-2.2461133898,43.2945746872118,-2.3538208007
+Zumaia,Deba,Tren EuskoTren,Trabajo habitual,20-44,Personas ocupadas,230,43.2876451846902,-2.2461133898,43.2945746872118,-2.3538208007
+Zumaia,Donostia/San Sebastián,Autobus interurbano,Trabajo habitual,20-44,Personas ocupadas,276,43.2876451846902,-2.2461133898,43.2918111063554,-1.9885133578
+Zumaia,Donostia/San Sebastián,"Coche, conductor/a",Asuntos trabajo,45-64,Personas ocupadas,133,43.2876451846902,-2.2461133898,43.2918111063554,-1.9885133578
+Zumaia,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,20-44,Personas ocupadas,207,43.2876451846902,-2.2461133898,43.2918111063554,-1.9885133578
+Zumaia,Donostia/San Sebastián,"Coche, conductor/a","Ocio, cultura, deporte",65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",199,43.2876451846902,-2.2461133898,43.2918111063554,-1.9885133578
+Zumaia,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,270,43.2876451846902,-2.2461133898,43.2918111063554,-1.9885133578
+Zumaia,Donostia/San Sebastián,"Coche, pasajero/a",Acompanamiento,20-44,Personas ocupadas,211,43.2876451846902,-2.2461133898,43.2918111063554,-1.9885133578
+Zumaia,Zarautz,Autobus interurbano,Centro estudios,20-44,Estudiantes,334,43.2876451846902,-2.2461133898,43.280963309723,-2.16722426204
+Zumaia,Zarautz,Autobus interurbano,Centro estudios,7-19,Estudiantes,334,43.2876451846902,-2.2461133898,43.280963309723,-2.16722426204
+Zumaia,Zarautz,Bicicleta,Trabajo habitual,20-44,Personas ocupadas,112,43.2876451846902,-2.2461133898,43.280963309723,-2.16722426204
+Zumaia,Zarautz,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,193,43.2876451846902,-2.2461133898,43.280963309723,-2.16722426204
+Zumaia,Zarautz,"Coche, pasajero/a",Acompanamiento,20-44,Personas ocupadas,147,43.2876451846902,-2.2461133898,43.280963309723,-2.16722426204
+Zumaia,Zumarraga,"Coche, conductor/a",Acompanamiento,20-44,"Personas jubiladas, pensionistas y otros tipos de inactividad",410,43.2876451846902,-2.2461133898,43.1030792391374,-2.3156108273
+Zumaia,Zumarraga,"Coche, pasajero/a",Acompanamiento,20-44,Personas paradas,404,43.2876451846902,-2.2461133898,43.1030792391374,-2.3156108273
+Zumaia,Zumarraga,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,161,43.2876451846902,-2.2461133898,43.1030792391374,-2.3156108273
+Zumarraga,Arrasate/Mondragón,"Coche, conductor/a",Centro estudios,20-44,Estudiantes,367,43.1030792391374,-2.3156108273,43.0745226631642,-2.4841486565
+Zumarraga,Arrasate/Mondragón,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,408,43.1030792391374,-2.3156108273,43.0745226631642,-2.4841486565
+Zumarraga,Azkoitia,Autobus discrecional,Trabajo habitual,45-64,Personas ocupadas,231,43.1030792391374,-2.3156108273,43.1706487685027,-2.3309631204
+Zumarraga,Beasain,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,861,43.1030792391374,-2.3156108273,43.0732613951147,-2.2179073142
+Zumarraga,Beasain,"Coche, pasajero/a",Trabajo habitual,45-64,Personas ocupadas,164,43.1030792391374,-2.3156108273,43.0732613951147,-2.2179073142
+Zumarraga,Bergara,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,206,43.1030792391374,-2.3156108273,43.1220053801849,-2.4148383635
+Zumarraga,Donostia/San Sebastián,"Coche, conductor/a",Medico / Hospital,45-64,Personas paradas,249,43.1030792391374,-2.3156108273,43.2918111063554,-1.9885133578
+Zumarraga,Donostia/San Sebastián,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,269,43.1030792391374,-2.3156108273,43.2918111063554,-1.9885133578
+Zumarraga,Donostia/San Sebastián,"Coche, conductor/a",Trabajo habitual,20-44,Personas ocupadas,213,43.1030792391374,-2.3156108273,43.2918111063554,-1.9885133578
+Zumarraga,Donostia/San Sebastián,Tren Renfe cercanias,Centro estudios,20-44,Estudiantes,281,43.1030792391374,-2.3156108273,43.2918111063554,-1.9885133578
+Zumarraga,Errenteria,"Coche, conductor/a",Medico / Hospital,45-64,Personas ocupadas,258,43.1030792391374,-2.3156108273,43.2553049551337,-1.8928623455
+Zumarraga,Legazpi,Autobus interurbano,Centro estudios,20-44,Personas ocupadas,182,43.1030792391374,-2.3156108273,43.0307535874133,-2.3423674188
+Zumarraga,Legazpi,Autobus interurbano,Otros,45-64,Personas ocupadas,182,43.1030792391374,-2.3156108273,43.0307535874133,-2.3423674188
+Zumarraga,Legazpi,"Coche, conductor/a",Otra vivienda,20-44,Personas ocupadas,111,43.1030792391374,-2.3156108273,43.0307535874133,-2.3423674188
+Zumarraga,Legazpi,"Coche, conductor/a",Trabajo habitual,45-64,Personas ocupadas,258,43.1030792391374,-2.3156108273,43.0307535874133,-2.3423674188
+Zumarraga,Legazpi,"Coche, pasajero/a",Trabajo habitual,20-44,Personas paradas,109,43.1030792391374,-2.3156108273,43.0307535874133,-2.3423674188
+Zumarraga,Ordizia,"Coche, conductor/a",Medico / Hospital,65 y mas,"Personas jubiladas, pensionistas y otros tipos de inactividad",115,43.1030792391374,-2.3156108273,43.0637579709383,-2.1818318125
+Zumarraga,Ordizia,"Coche, pasajero/a",Medico / Hospital,65 y mas,Tareas hogar,118,43.1030792391374,-2.3156108273,43.0637579709383,-2.1818318125
+Zumarraga,Zumaia,"Coche, conductor/a",Acompanamiento,20-44,"Personas jubiladas, pensionistas y otros tipos de inactividad",412,43.1030792391374,-2.3156108273,43.2876451846902,-2.2461133898
+Zumarraga,Zumaia,"Coche, pasajero/a",Acompanamiento,20-44,Personas paradas,404,43.1030792391374,-2.3156108273,43.2876451846902,-2.2461133898
+Zumarraga,Zumaia,"Coche, pasajero/a",Centro estudios,7-19,Estudiantes,161,43.1030792391374,-2.3156108273,43.2876451846902,-2.2461133898
