@@ -1,0 +1,72 @@
+Per_hog,Turismos,Edad,crnt_tur,Tipo_familia,Scenario,Model_result,R_W
+1,1,1,1,1,1,Coche,Wrong
+1,1,1,1,1,2,Coche,Right
+1,1,1,1,1,3,Coche,Wrong
+1,1,1,1,1,1,Coche,Right
+1,1,1,1,1,2,TP,Right
+1,1,1,1,1,3,TP,Wrong
+3-5,1,30-44,Yes,Single,Scenario 1,Coche,wrong
+3-5,1,30-44,Yes,Single,Scenario 2,Coche,right
+1-2,0,20-29,No,Single parent,Scenario 1,TP,right
+1-2,0,20-29,No,Single parent,Scenario 2,TP,right
+1-2,0,20-29,No,Single parent,Scenario 3,TP,wrong
+1-2,0,20-29,Yes,Couple,Scenario 1,TP,right
+1-2,0,20-29,Yes,Couple,Scenario 2,TP,right
+1-2,0,20-29,Yes,Couple,Scenario 3,TP,right
+1-2,0,30-44,No,Single,Scenario 1,TP,right
+1-2,0,30-44,No,Single,Scenario 2,TP,wrong
+1-2,0,30-44,No,Single,Scenario 3,Coche,wrong
+3-5,0,45-59,Yes,Couple with kids,Scenario 1,Coche,wrong
+3-5,0,45-59,Yes,Couple with kids,Scenario 2,Coche,wrong
+3-5,0,45-59,Yes,Couple with kids,Scenario 3,Coche,wrong
+3-5,2,45-59,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,2,45-59,Yes,Couple with kids,Scenario 2,Coche,right
+3-5,2,45-59,Yes,Couple with kids,Scenario 3,Coche,right
+1-2,2,45-59,Yes,Single,Scenario 1,Coche,right
+1-2,2,45-59,Yes,Single,Scenario 1,Coche,right
+1-2,2,45-59,Yes,Single,Scenario 2,Coche,wrong
+3-5,1,30-44,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,1,30-44,Yes,Couple with kids,Scenario 2,Coche,wrong
+3-5,1,30-44,Yes,Couple with kids,Scenario 3,Coche,wrong
+3-5,2,30-44,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,2,30-44,Yes,Couple with kids,Scenario 2,Coche,right
+3-5,2,30-44,Yes,Couple with kids,Scenario 3,Coche,right
+3-5,1,60-74,Yes,Single parent,Scenario 1,TP,wrong
+3-5,1,60-74,Yes,Single parent,Scenario 2,TP,wrong
+3-5,1,60-74,Yes,Single parent,Scenario 3,Coche,wrong
+3-5,2,45-59,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,2,45-59,Yes,Couple with kids,Scenario 2,Coche,wrong
+1-2,0,20-29,No,Single,Scenario 1,TP,right
+1-2,1,20-29,Yes,Single,Scenario 1,Coche,right
+1-2,1,20-29,Yes,Couple,Scenario 1,Coche,right
+1-2,1,20-29,Yes,Couple,Scenario 2,Coche,wrong
+1-2,1,20-29,Yes,Single,Scenario 3,Coche,wrong
+1-2,0,30-44,Yes,Single,Scenario 1,TP,wrong
+1-2,0,30-44,Yes,Single,Scenario 2,TP,right
+1-2,0,30-44,Yes,Single,Scenario 3,TP,wrong
+3-5,1,30-44,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,1,30-44,Yes,Couple with kids,Scenario 2,Coche,right
+3-5,1,30-44,Yes,Couple with kids,Scenario 3,Coche,right
+3-5,2,30-44,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,2,30-44,Yes,Couple with kids,Scenario 2,Coche,wrong
+3-5,2,30-44,Yes,Couple with kids,Scenario 3,Coche,right
+3-5,3+,45-59,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,3+,45-59,Yes,Couple with kids,Scenario 2,Coche,right
+3-5,3+,45-59,Yes,Couple with kids,Scenario 3,Coche,right
+1-2,1,20-29,Yes,Single,Scenario 1,Coche,right
+1-2,0,30-44,Yes,Single,Scenario 1,TP,right
+1-2,1,30-44,Yes,Couple,Scenario 1,TP,wrong
+1-2,1,30-44,Yes,Couple,Scenario 2,Coche,wrong
+1-2,1,30-44,Yes,Couple,Scenario 3,Coche,wrong
+1-2,1,30-44,Yes,Couple,Scenario 3,Coche,right
+1-2,2,45-59,Yes,Couple,Scenario 1,Coche,right
+1-2,2,45-59,Yes,Couple,Scenario 2,Coche,right
+1-2,2,45-59,Yes,Couple,Scenario 3,Coche,right
+1-2,2,60-74,Yes,Couple,Scenario 1,Coche,right
+1-2,2,60-74,Yes,Couple,Scenario 2,Coche,right
+1-2,2,60-74,Yes,Couple,Scenario 3,Coche,right
+1-2,0,30-44,Yes,Single,Scenario 1,TP,right
+1-2,0,30-44,Yes,Single,Scenario 2,TP,right
+1-2,0,30-44,Yes,Single,Scenario 3,TP,right
+3-5,2,30-44,Yes,Couple with kids,Scenario 1,Coche,right
+3-5,2,30-44,Yes,Couple with kids,Scenario 2,Coche,wrong
