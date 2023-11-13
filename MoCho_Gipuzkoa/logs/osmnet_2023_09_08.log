@@ -1,0 +1,15 @@
+2023-09-08 15:07:35,405 INFO osmnet Requesting network data within bounding box from Overpass API in 4 request(s)
+2023-09-08 15:07:35,406 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](42.97939051,-2.54228822,43.18868130,-2.13466437);>;);out;'}"
+2023-09-08 15:07:38,530 INFO osmnet Downloaded 42,786.2KB from www.overpass-api.de in 3.12 seconds
+2023-09-08 15:07:39,091 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](43.18632431,-2.54228822,43.39254746,-2.13173569);>;);out;'}"
+2023-09-08 15:07:40,330 INFO osmnet Downloaded 21,365.7KB from www.overpass-api.de in 1.24 seconds
+2023-09-08 15:07:40,615 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](43.18254539,-2.13466437,43.39254746,-1.72979091);>;);out;'}"
+2023-09-08 15:07:42,875 INFO osmnet Downloaded 43,898.9KB from www.overpass-api.de in 2.26 seconds
+2023-09-08 15:07:43,508 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"motor|proposed|construction|abandoned|platform|raceway"]["foot"!~"no"]["pedestrians"!~"no"](42.97939051,-2.13756201,43.18632431,-1.72979091);>;);out;'}"
+2023-09-08 15:07:44,977 INFO osmnet Downloaded 31,896.7KB from www.overpass-api.de in 1.47 seconds
+2023-09-08 15:07:45,378 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 4 request(s) and 9.97 seconds
+2023-09-08 15:07:48,912 INFO osmnet 35,766 duplicate records removed. Took 3.52 seconds
+2023-09-08 15:07:51,470 INFO osmnet Returning OSM data with 1,195,706 nodes and 84,516 ways...
+2023-09-08 15:08:21,894 INFO osmnet Edge node pairs completed. Took 30.42 seconds
+2023-09-08 15:08:21,993 INFO osmnet Returning processed graph with 95,185 nodes and 258,168 edges...
+2023-09-08 15:08:21,994 INFO osmnet Completed OSM data download and Pandana node and edge table creation in 46.62 seconds

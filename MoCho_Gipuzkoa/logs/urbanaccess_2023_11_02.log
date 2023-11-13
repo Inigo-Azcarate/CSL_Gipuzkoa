@@ -1,0 +1,71 @@
+2023-11-02 11:25:17,035 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'dbus': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/dbus/google_transit.zip'}
+2023-11-02 11:25:17,037 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_areizaga': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_areizaga/google_transit.zip'}
+2023-11-02 11:25:17,037 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_arrasate': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_arrasate/google_transit.zip'}
+2023-11-02 11:25:17,038 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_auif_urb': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_auif_urb/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_eibar': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_eibar/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_ekialdebus': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_ekialdebus/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_euskotren_bus': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_euskotren_bus/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_garayar': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_garayar/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_gipuzkoana': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_gipuzkoana/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_goierrialdea': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_goierrialdea/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_hernani': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_hernani/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_lasarte': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_lasarte/google_transit.zip'}
+2023-11-02 11:25:17,039 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_oiartzun': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_oiartzun/google_transit.zip'}
+2023-11-02 11:25:17,040 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_pesa': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_pesa/google_transit.zip'}
+2023-11-02 11:25:17,040 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_renteria': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_renteria/google_transit.zip'}
+2023-11-02 11:25:17,040 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_tbh': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_tbh/google_transit.zip'}
+2023-11-02 11:25:17,040 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_tolosaldea': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_tolosaldea/google_transit.zip'}
+2023-11-02 11:25:17,040 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_tsst': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_tsst/google_transit.zip'}
+2023-11-02 11:25:17,040 INFO urbanaccess Added 1 feeds to gtfs_feeds: {'lurraldebus_zarautz': 'https://www.geo.euskadi.eus/cartografia/DatosDescarga/Transporte/Moveuskadi/ATTG/lurraldebus_zarautz/google_transit.zip'}
+2023-11-02 11:25:22,427 INFO urbanaccess 19 GTFS feed(s) will be downloaded here: data\gtfsfeed_zips
+2023-11-02 11:25:30,340 INFO urbanaccess dbus GTFS feed downloaded successfully. Took 7.91 seconds for 5,377,636.0KB
+2023-11-02 11:25:31,725 INFO urbanaccess lurraldebus_areizaga GTFS feed downloaded successfully. Took 1.38 seconds for 175,056.0KB
+2023-11-02 11:25:34,583 INFO urbanaccess lurraldebus_arrasate GTFS feed downloaded successfully. Took 2.86 seconds for 56,103.0KB
+2023-11-02 11:25:35,909 INFO urbanaccess lurraldebus_auif_urb GTFS feed downloaded successfully. Took 1.32 seconds for 203,957.0KB
+2023-11-02 11:25:36,935 INFO urbanaccess lurraldebus_eibar GTFS feed downloaded successfully. Took 1.03 seconds for 61,145.0KB
+2023-11-02 11:25:39,057 INFO urbanaccess lurraldebus_ekialdebus GTFS feed downloaded successfully. Took 2.12 seconds for 1,500,298.0KB
+2023-11-02 11:25:42,267 INFO urbanaccess lurraldebus_euskotren_bus GTFS feed downloaded successfully. Took 3.21 seconds for 1,882,560.0KB
+2023-11-02 11:25:44,372 INFO urbanaccess lurraldebus_garayar GTFS feed downloaded successfully. Took 2.11 seconds for 398,196.0KB
+2023-11-02 11:25:48,068 INFO urbanaccess lurraldebus_gipuzkoana GTFS feed downloaded successfully. Took 3.70 seconds for 959,545.0KB
+2023-11-02 11:25:52,722 INFO urbanaccess lurraldebus_goierrialdea GTFS feed downloaded successfully. Took 4.65 seconds for 1,153,981.0KB
+2023-11-02 11:25:53,758 INFO urbanaccess lurraldebus_hernani GTFS feed downloaded successfully. Took 1.04 seconds for 44,128.0KB
+2023-11-02 11:25:54,656 INFO urbanaccess lurraldebus_lasarte GTFS feed downloaded successfully. Took 0.90 seconds for 27,130.0KB
+2023-11-02 11:25:55,512 INFO urbanaccess lurraldebus_oiartzun GTFS feed downloaded successfully. Took 0.85 seconds for 12,561.0KB
+2023-11-02 11:25:59,775 INFO urbanaccess lurraldebus_pesa GTFS feed downloaded successfully. Took 4.26 seconds for 3,768,887.0KB
+2023-11-02 11:26:02,954 INFO urbanaccess lurraldebus_renteria GTFS feed downloaded successfully. Took 3.18 seconds for 120,777.0KB
+2023-11-02 11:26:04,764 INFO urbanaccess lurraldebus_tbh GTFS feed downloaded successfully. Took 1.81 seconds for 1,055,741.0KB
+2023-11-02 11:26:06,388 INFO urbanaccess lurraldebus_tolosaldea GTFS feed downloaded successfully. Took 1.62 seconds for 587,431.0KB
+2023-11-02 11:26:09,691 INFO urbanaccess lurraldebus_tsst GTFS feed downloaded successfully. Took 3.30 seconds for 691,633.0KB
+2023-11-02 11:26:10,894 INFO urbanaccess lurraldebus_zarautz GTFS feed downloaded successfully. Took 1.20 seconds for 96,792.0KB
+2023-11-02 11:26:10,894 INFO urbanaccess GTFS feed download completed. Took 48.47 seconds
+2023-11-02 11:26:11,059 INFO urbanaccess dbus.zip successfully extracted to: data\gtfsfeed_text\dbus
+2023-11-02 11:26:11,069 INFO urbanaccess lurraldebus_areizaga.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_areizaga
+2023-11-02 11:26:11,077 INFO urbanaccess lurraldebus_arrasate.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_arrasate
+2023-11-02 11:26:11,085 INFO urbanaccess lurraldebus_auif_urb.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_auif_urb
+2023-11-02 11:26:11,156 INFO urbanaccess lurraldebus_eibar.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_eibar
+2023-11-02 11:26:11,196 INFO urbanaccess lurraldebus_ekialdebus.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_ekialdebus
+2023-11-02 11:26:11,236 INFO urbanaccess lurraldebus_euskotren_bus.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_euskotren_bus
+2023-11-02 11:26:11,249 INFO urbanaccess lurraldebus_garayar.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_garayar
+2023-11-02 11:26:11,275 INFO urbanaccess lurraldebus_gipuzkoana.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_gipuzkoana
+2023-11-02 11:26:11,304 INFO urbanaccess lurraldebus_goierrialdea.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_goierrialdea
+2023-11-02 11:26:11,314 INFO urbanaccess lurraldebus_hernani.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_hernani
+2023-11-02 11:26:11,321 INFO urbanaccess lurraldebus_lasarte.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_lasarte
+2023-11-02 11:26:11,330 INFO urbanaccess lurraldebus_oiartzun.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_oiartzun
+2023-11-02 11:26:11,404 INFO urbanaccess lurraldebus_pesa.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_pesa
+2023-11-02 11:26:11,458 INFO urbanaccess lurraldebus_renteria.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_renteria
+2023-11-02 11:26:11,485 INFO urbanaccess lurraldebus_tbh.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_tbh
+2023-11-02 11:26:11,506 INFO urbanaccess lurraldebus_tolosaldea.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_tolosaldea
+2023-11-02 11:26:11,525 INFO urbanaccess lurraldebus_tsst.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_tsst
+2023-11-02 11:26:11,536 INFO urbanaccess lurraldebus_zarautz.zip successfully extracted to: data\gtfsfeed_text\lurraldebus_zarautz
+2023-11-02 11:26:11,537 INFO urbanaccess GTFS feed zipfile extraction completed. Took 0.64 seconds for 19 files
+2023-11-02 11:35:12,797 INFO urbanaccess Checking GTFS text file header whitespace... Reading files using encoding: utf-8 set in configuration.
+2023-11-02 11:35:13,034 INFO urbanaccess GTFS text file header whitespace check completed. Took 0.24 seconds
+2023-11-02 11:35:13,037 INFO urbanaccess --------------------------------
+2023-11-02 11:35:13,037 INFO urbanaccess Processing GTFS feed: dbus
+2023-11-02 11:35:13,669 INFO urbanaccess The unique agency id: dbus was generated using the name of the agency in the agency.txt file.
+2023-11-02 11:35:13,685 INFO urbanaccess Unique agency id operation complete. Took 0.02 seconds
+2023-11-02 11:35:13,688 INFO urbanaccess Unique GTFS feed id operation complete. Took 0.00 seconds
+2023-11-02 11:35:13,689 INFO urbanaccess No GTFS feed stops were found to be outside the bounding box coordinates
+2023-11-02 11:35:13,689 INFO urbanaccess dbus GTFS feed stops: coordinates are in northwest hemisphere. Latitude = North (90); Longitude = West (-90).
+2023-11-02 11:35:13,932 INFO urbanaccess Appended route type to stops
+2023-11-02 11:35:14,034 INFO urbanaccess Appended route type to stop_times

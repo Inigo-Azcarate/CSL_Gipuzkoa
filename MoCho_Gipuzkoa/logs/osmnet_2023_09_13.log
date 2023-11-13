@@ -1,0 +1,15 @@
+2023-09-13 09:14:16,011 INFO osmnet Requesting network data within bounding box from Overpass API in 4 request(s)
+2023-09-13 09:14:16,012 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["service"!~"parking|parking_aisle|driveway|emergency_access"](42.97819870,-2.54228824,43.18808542,-2.13466048);>;);out;'}"
+2023-09-13 09:14:17,502 INFO osmnet Downloaded 15,203.7KB from www.overpass-api.de in 1.49 seconds
+2023-09-13 09:14:17,669 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["service"!~"parking|parking_aisle|driveway|emergency_access"](43.18572840,-2.54228824,43.39254746,-2.13172333);>;);out;'}"
+2023-09-13 09:14:18,818 INFO osmnet Downloaded 6,851.9KB from www.overpass-api.de in 1.15 seconds
+2023-09-13 09:14:18,884 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["service"!~"parking|parking_aisle|driveway|emergency_access"](43.18194952,-2.13466048,43.39254746,-1.72979091);>;);out;'}"
+2023-09-13 09:14:20,217 INFO osmnet Downloaded 13,955.5KB from www.overpass-api.de in 1.33 seconds
+2023-09-13 09:14:20,385 INFO osmnet Posting to http://www.overpass-api.de/api/interpreter with timeout=180, "{'data': '[out:json][timeout:180];(way["highway"]["highway"!~"cycleway|footway|path|pedestrian|steps|track|proposed|construction|bridleway|abandoned|platform|raceway|service"]["motor_vehicle"!~"no"]["motorcar"!~"no"]["service"!~"parking|parking_aisle|driveway|emergency_access"](42.97819870,-2.13756640,43.18572840,-1.72979091);>;);out;'}"
+2023-09-13 09:14:21,493 INFO osmnet Downloaded 6,297.7KB from www.overpass-api.de in 1.11 seconds
+2023-09-13 09:14:21,685 INFO osmnet Downloaded OSM network data within bounding box from Overpass API in 4 request(s) and 5.67 seconds
+2023-09-13 09:14:22,756 INFO osmnet 11,155 duplicate records removed. Took 1.07 seconds
+2023-09-13 09:14:23,565 INFO osmnet Returning OSM data with 337,088 nodes and 29,015 ways...
+2023-09-13 09:14:34,950 INFO osmnet Edge node pairs completed. Took 11.38 seconds
+2023-09-13 09:14:35,004 INFO osmnet Returning processed graph with 28,195 nodes and 71,030 edges...
+2023-09-13 09:14:35,004 INFO osmnet Completed OSM data download and Pandana node and edge table creation in 19.05 seconds
